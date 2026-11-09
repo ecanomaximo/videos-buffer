@@ -1,0 +1,30 @@
+# Despacha os vídeos da grade para o Buffer, de hora em hora, sem precisar do PC ligado.
+# Instalado no repositório de vídeos por: node publicar/semana.mjs instalar
+# Repositório público: minutos do GitHub Actions são grátis.
+name: despachar
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # todo minuto 17 (UTC); o GitHub pode atrasar alguns minutos
+  workflow_dispatch: {}      # botão "Run workflow" para rodar na hora
+
+permissions:
+  contents: write            # gravar grade.json e apagar vídeos da release
+
+concurrency:
+  group: despachar
+  cancel-in-progress: false
+
+jobs:
+  despachar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node despachar.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BUFFER_CONFIG: ${{ secrets.BUFFER_CONFIG }}
