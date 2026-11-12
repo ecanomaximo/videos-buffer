@@ -10,9 +10,11 @@
       "arquivo": "efeito-placebo.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/efeito-placebo.mp4",
       "post_id": "6af3c85861555afe9eee246e",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-12T12:00:00.000Z",
-      "criado_em": "2026-11-11T01:43:52.389Z"
+      "criado_em": "2026-11-11T01:43:52.389Z",
+      "publicado_em": "2026-11-12T12:04:12.010Z",
+      "link": "https://www.instagram.com/reel/DfpAs6SAXOa/"
     },
     {
       "id": "instagram-consumidor-garantia-legal-sem-nota",
@@ -24,9 +26,11 @@
       "arquivo": "garantia-legal-sem-nota.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/garantia-legal-sem-nota.mp4",
       "post_id": "6af3c859d9a6812579c39641",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-12T12:00:00.000Z",
-      "criado_em": "2026-11-11T01:43:53.343Z"
+      "criado_em": "2026-11-11T01:43:53.343Z",
+      "publicado_em": "2026-11-12T12:03:45.259Z",
+      "link": "https://www.instagram.com/reel/DfpAtAvlQPO/"
     },
     {
       "id": "tiktok-comportamento-efeito-placebo",
@@ -38,9 +42,11 @@
       "arquivo": "efeito-placebo.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/efeito-placebo.mp4",
       "post_id": "6af3c859d9a6812579c39674",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-12T12:00:00.000Z",
-      "criado_em": "2026-11-11T01:43:53.808Z"
+      "criado_em": "2026-11-11T01:43:53.808Z",
+      "publicado_em": "2026-11-12T12:04:01.688Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7707254248618331400"
     },
     {
       "id": "tiktok-consumidor-garantia-legal-sem-nota",
@@ -52,9 +58,11 @@
       "arquivo": "garantia-legal-sem-nota.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/garantia-legal-sem-nota.mp4",
       "post_id": "6af3c85affe2872794e6c647",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-12T12:00:00.000Z",
-      "criado_em": "2026-11-11T01:43:54.372Z"
+      "criado_em": "2026-11-11T01:43:54.372Z",
+      "publicado_em": "2026-11-12T12:04:55.231Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7707254264501914901"
     },
     {
       "id": "instagram-comportamento-paralisia-da-escolha",
@@ -64,7 +72,11 @@
       "quando": "2026-11-12T12:00:00-03:00",
       "legenda": "Comente quantos minutos você já perdeu escolhendo série. Isso tem nome: paralisia da escolha.\n\nNo estudo das geleias (Iyengar e Lepper, 2000), a mesa com 24 sabores atraiu mais gente, mas a de 6 sabores vendeu quase dez vezes mais.\n\nMuita opção cansa e aumenta o medo de escolher errado. Uma revisão de 50 experimentos (2010) mostrou que o efeito não aparece sempre.\n\nTruque: corte para três opções antes de decidir.\n\n#psicologia #comportamento #porqueagenteeassim",
       "arquivo": "paralisia-da-escolha.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/paralisia-da-escolha.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/paralisia-da-escolha.mp4",
+      "post_id": "6af5b4a1b9a34486aae604c9",
+      "status": "scheduled",
+      "agendado_para": "2026-11-12T15:00:00.000Z",
+      "criado_em": "2026-11-12T12:44:17.859Z"
     },
     {
       "id": "instagram-consumidor-furto-celular-fraude-banco",
@@ -74,7 +86,11 @@
       "quando": "2026-11-12T12:00:00-03:00",
       "legenda": "Comente PIX se você não sabia: banco responde por fraude de terceiros, diz a Súmula 479 do STJ.\n\nCelular roubado e Pix que você não fez: o Código de Defesa do Consumidor (art. 14) trata falha de segurança como responsabilidade do banco. Cada caso é analisado.\n\nAja rápido: ligue pro banco, bloqueie o chip, conteste cada Pix e faça boletim de ocorrência. Guarde os protocolos.\n\nSe o banco negar, reclame no consumidor.gov.br e no Procon.\n\nConteúdo informativo, não é consultoria jurídica.\n\n#direitodoconsumidor #golpedopix #podeissoedu",
       "arquivo": "furto-celular-fraude-banco.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/furto-celular-fraude-banco.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/furto-celular-fraude-banco.mp4",
+      "post_id": "6af5b4a2b3a8539d46d4c6fa",
+      "status": "scheduled",
+      "agendado_para": "2026-11-12T15:00:00.000Z",
+      "criado_em": "2026-11-12T12:44:18.378Z"
     },
     {
       "id": "tiktok-comportamento-paralisia-da-escolha",
@@ -84,7 +100,11 @@
       "quando": "2026-11-12T12:00:00-03:00",
       "legenda": "Comente quantos minutos você já perdeu escolhendo série. Isso tem nome: paralisia da escolha.\n\nNo estudo das geleias (Iyengar e Lepper, 2000), a mesa com 24 sabores atraiu mais gente, mas a de 6 sabores vendeu quase dez vezes mais.\n\nMuita opção cansa e aumenta o medo de escolher errado. Uma revisão de 50 experimentos (2010) mostrou que o efeito não aparece sempre.\n\nTruque: corte para três opções antes de decidir.\n\n#psicologia #comportamento #porqueagenteeassim",
       "arquivo": "paralisia-da-escolha.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/paralisia-da-escolha.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/paralisia-da-escolha.mp4",
+      "post_id": "6af5b4a2149e475354827baa",
+      "status": "scheduled",
+      "agendado_para": "2026-11-12T15:00:00.000Z",
+      "criado_em": "2026-11-12T12:44:19.053Z"
     },
     {
       "id": "tiktok-consumidor-furto-celular-fraude-banco",
@@ -94,7 +114,11 @@
       "quando": "2026-11-12T12:00:00-03:00",
       "legenda": "Comente PIX se você não sabia: banco responde por fraude de terceiros, diz a Súmula 479 do STJ.\n\nCelular roubado e Pix que você não fez: o Código de Defesa do Consumidor (art. 14) trata falha de segurança como responsabilidade do banco. Cada caso é analisado.\n\nAja rápido: ligue pro banco, bloqueie o chip, conteste cada Pix e faça boletim de ocorrência. Guarde os protocolos.\n\nSe o banco negar, reclame no consumidor.gov.br e no Procon.\n\nConteúdo informativo, não é consultoria jurídica.\n\n#direitodoconsumidor #golpedopix #podeissoedu",
       "arquivo": "furto-celular-fraude-banco.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/furto-celular-fraude-banco.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/furto-celular-fraude-banco.mp4",
+      "post_id": "6af5b4a3be882fe76e21f41c",
+      "status": "scheduled",
+      "agendado_para": "2026-11-12T15:00:00.000Z",
+      "criado_em": "2026-11-12T12:44:19.686Z"
     },
     {
       "id": "instagram-comportamento-ilusao-de-frequencia",
@@ -104,7 +128,11 @@
       "quando": "2026-11-12T17:00:00-03:00",
       "legenda": "Comente o que você passou a ver em todo lugar. Isso tem nome: ilusão de frequência.\n\nO termo é do linguista Arnold Zwicky (2005). A coisa não ficou mais comum: você é que passou a reparar.\n\nSão dois efeitos juntos: atenção seletiva, que filtra o que importa pra você, e viés de confirmação, que conta cada caso como prova.\n\nVale pra carro e pra palavra nova.\n\n#psicologia #curiosidades #porqueagenteeassim",
       "arquivo": "ilusao-de-frequencia.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/ilusao-de-frequencia.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/ilusao-de-frequencia.mp4",
+      "post_id": "6af5b4a4b9a34486aae60605",
+      "status": "scheduled",
+      "agendado_para": "2026-11-12T20:00:00.000Z",
+      "criado_em": "2026-11-12T12:44:20.194Z"
     },
     {
       "id": "instagram-consumidor-cheque-caucao-hospital",
@@ -114,7 +142,11 @@
       "quando": "2026-11-12T17:00:00-03:00",
       "legenda": "Comente HOSPITAL se você não sabia: exigir cheque-caução na emergência é crime.\n\nA Lei 12.653/2012 pôs isso no Código Penal (art. 135-A): exigir cheque, nota promissória ou qualquer garantia para atendimento de emergência dá detenção de 3 meses a 1 ano, e multa. A pena aumenta se a demora causar lesão grave ou morte.\n\nO hospital é obrigado a ter um cartaz avisando.\n\nSe exigirem: peça o atendimento primeiro, anote os nomes e, se precisar, chame a polícia.\n\nConteúdo informativo, não é consultoria jurídica.\n\n#direitodoconsumidor #saude #podeissoedu",
       "arquivo": "cheque-caucao-hospital.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cheque-caucao-hospital.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cheque-caucao-hospital.mp4",
+      "post_id": "6af5b4a49c4618b9af3de423",
+      "status": "scheduled",
+      "agendado_para": "2026-11-12T20:00:00.000Z",
+      "criado_em": "2026-11-12T12:44:20.743Z"
     },
     {
       "id": "tiktok-comportamento-ilusao-de-frequencia",
@@ -124,7 +156,11 @@
       "quando": "2026-11-12T17:00:00-03:00",
       "legenda": "Comente o que você passou a ver em todo lugar. Isso tem nome: ilusão de frequência.\n\nO termo é do linguista Arnold Zwicky (2005). A coisa não ficou mais comum: você é que passou a reparar.\n\nSão dois efeitos juntos: atenção seletiva, que filtra o que importa pra você, e viés de confirmação, que conta cada caso como prova.\n\nVale pra carro e pra palavra nova.\n\n#psicologia #curiosidades #porqueagenteeassim",
       "arquivo": "ilusao-de-frequencia.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/ilusao-de-frequencia.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/ilusao-de-frequencia.mp4",
+      "post_id": "6af5b4a5b3a8539d46d4c865",
+      "status": "scheduled",
+      "agendado_para": "2026-11-12T20:00:00.000Z",
+      "criado_em": "2026-11-12T12:44:21.407Z"
     },
     {
       "id": "tiktok-consumidor-cheque-caucao-hospital",
@@ -134,7 +170,11 @@
       "quando": "2026-11-12T17:00:00-03:00",
       "legenda": "Comente HOSPITAL se você não sabia: exigir cheque-caução na emergência é crime.\n\nA Lei 12.653/2012 pôs isso no Código Penal (art. 135-A): exigir cheque, nota promissória ou qualquer garantia para atendimento de emergência dá detenção de 3 meses a 1 ano, e multa. A pena aumenta se a demora causar lesão grave ou morte.\n\nO hospital é obrigado a ter um cartaz avisando.\n\nSe exigirem: peça o atendimento primeiro, anote os nomes e, se precisar, chame a polícia.\n\nConteúdo informativo, não é consultoria jurídica.\n\n#direitodoconsumidor #saude #podeissoedu",
       "arquivo": "cheque-caucao-hospital.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cheque-caucao-hospital.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cheque-caucao-hospital.mp4",
+      "post_id": "6af5b4a5b9a34486aae606b8",
+      "status": "scheduled",
+      "agendado_para": "2026-11-12T20:00:00.000Z",
+      "criado_em": "2026-11-12T12:44:22.007Z"
     },
     {
       "id": "instagram-comportamento-musica-chiclete",
@@ -312,7 +352,11 @@
       "quando": "2026-11-14T09:00:00-03:00",
       "legenda": "Por que tarefa inacabada não sai da cabeça? 🧠📝\n\nÉ o efeito Zeigarnik: garçons lembravam pedidos abertos e esqueciam os pagos. Estudos novos acham o efeito às vezes sim, às vezes não.\n\nMasicampo e Baumeister (2011) viram que fazer um plano concreto já reduz os pensamentos intrusivos, mesmo sem terminar a tarefa.\n\nQuantas abas estão abertas na sua cabeça? Comente 👇\n\n#porqueagenteeassim #curiosidades #ciencia #produtividade #psicologia #mente #sono",
       "arquivo": "efeito-zeigarnik.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/efeito-zeigarnik.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/efeito-zeigarnik.mp4",
+      "post_id": "6af5b4a6b3a8539d46d4c8ce",
+      "status": "scheduled",
+      "agendado_para": "2026-11-14T12:00:00.000Z",
+      "criado_em": "2026-11-12T12:44:22.661Z"
     },
     {
       "id": "instagram-consumidor-produto-vencido-prateleira",
@@ -322,7 +366,11 @@
       "quando": "2026-11-14T09:00:00-03:00",
       "legenda": "Achei produto vencido no mercado: levo outro de graça? 🥛❌\n\nNão existe lei federal que dê o produto de graça: algumas lojas fazem por conta própria e há regras locais.\n\nMas produto vencido é impróprio ao consumo (art. 18, § 6º do CDC), e vender mercadoria imprópria pode ser crime (Lei 8.137/1990, art. 7º). Conteúdo informativo, não é consultoria jurídica.\n\nJá achou vencido no mercado? Comente VENCIDO 👇\n\n#podeissoedu #direitodoconsumidor #cdc #supermercado #validade #consumidor #procon",
       "arquivo": "produto-vencido-prateleira.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/produto-vencido-prateleira.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/produto-vencido-prateleira.mp4",
+      "post_id": "6af5b4a7b3a8539d46d4c908",
+      "status": "scheduled",
+      "agendado_para": "2026-11-14T12:00:00.000Z",
+      "criado_em": "2026-11-12T12:44:23.316Z"
     },
     {
       "id": "tiktok-comportamento-efeito-zeigarnik",
@@ -332,7 +380,11 @@
       "quando": "2026-11-14T09:00:00-03:00",
       "legenda": "Por que tarefa inacabada não sai da cabeça? 🧠📝\n\nÉ o efeito Zeigarnik: garçons lembravam pedidos abertos e esqueciam os pagos. Estudos novos acham o efeito às vezes sim, às vezes não.\n\nMasicampo e Baumeister (2011) viram que fazer um plano concreto já reduz os pensamentos intrusivos, mesmo sem terminar a tarefa.\n\nQuantas abas estão abertas na sua cabeça? Comente 👇\n\n#porqueagenteeassim #curiosidades #ciencia #produtividade #psicologia #mente #sono",
       "arquivo": "efeito-zeigarnik.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/efeito-zeigarnik.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/efeito-zeigarnik.mp4",
+      "post_id": "6af5b4a79c4618b9af3de681",
+      "status": "scheduled",
+      "agendado_para": "2026-11-14T12:00:00.000Z",
+      "criado_em": "2026-11-12T12:44:23.794Z"
     },
     {
       "id": "tiktok-consumidor-produto-vencido-prateleira",
@@ -342,7 +394,11 @@
       "quando": "2026-11-14T09:00:00-03:00",
       "legenda": "Achei produto vencido no mercado: levo outro de graça? 🥛❌\n\nNão existe lei federal que dê o produto de graça: algumas lojas fazem por conta própria e há regras locais.\n\nMas produto vencido é impróprio ao consumo (art. 18, § 6º do CDC), e vender mercadoria imprópria pode ser crime (Lei 8.137/1990, art. 7º). Conteúdo informativo, não é consultoria jurídica.\n\nJá achou vencido no mercado? Comente VENCIDO 👇\n\n#podeissoedu #direitodoconsumidor #cdc #supermercado #validade #consumidor #procon",
       "arquivo": "produto-vencido-prateleira.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/produto-vencido-prateleira.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/produto-vencido-prateleira.mp4",
+      "post_id": "6af5b4a8c9355d633258430b",
+      "status": "scheduled",
+      "agendado_para": "2026-11-14T12:00:00.000Z",
+      "criado_em": "2026-11-12T12:44:24.358Z"
     },
     {
       "id": "instagram-comportamento-esquecer-ao-entrar-no-comodo",
