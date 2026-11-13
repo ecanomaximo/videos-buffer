@@ -138,9 +138,11 @@
       "arquivo": "ilusao-de-frequencia.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/ilusao-de-frequencia.mp4",
       "post_id": "6af5c487d2a6e57bf9b842fa",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-12T20:00:00.000Z",
-      "criado_em": "2026-11-12T13:52:07.895Z"
+      "criado_em": "2026-11-12T13:52:07.895Z",
+      "publicado_em": "2026-11-12T20:03:51.925Z",
+      "link": "https://www.instagram.com/reel/Dfp3kfrlObG/"
     },
     {
       "id": "instagram-consumidor-cheque-caucao-hospital",
@@ -152,9 +154,11 @@
       "arquivo": "cheque-caucao-hospital.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cheque-caucao-hospital.mp4",
       "post_id": "6af5c488e7d7941c3fa36b35",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-12T20:00:00.000Z",
-      "criado_em": "2026-11-12T13:52:08.403Z"
+      "criado_em": "2026-11-12T13:52:08.403Z",
+      "publicado_em": "2026-11-12T20:03:20.861Z",
+      "link": "https://www.instagram.com/reel/Dfp3hpYEqig/"
     },
     {
       "id": "tiktok-comportamento-ilusao-de-frequencia",
@@ -166,9 +170,11 @@
       "arquivo": "ilusao-de-frequencia.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/ilusao-de-frequencia.mp4",
       "post_id": "6af5c4889984f61a5414dfdc",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-12T20:00:00.000Z",
-      "criado_em": "2026-11-12T13:52:08.889Z"
+      "criado_em": "2026-11-12T13:52:08.889Z",
+      "publicado_em": "2026-11-12T20:02:39.568Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7707377541866294536"
     },
     {
       "id": "tiktok-consumidor-cheque-caucao-hospital",
@@ -180,9 +186,11 @@
       "arquivo": "cheque-caucao-hospital.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cheque-caucao-hospital.mp4",
       "post_id": "6af5c489d2a6e57bf9b8438c",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-12T20:00:00.000Z",
-      "criado_em": "2026-11-12T13:52:09.376Z"
+      "criado_em": "2026-11-12T13:52:09.376Z",
+      "publicado_em": "2026-11-12T20:02:02.642Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7707377536530926854"
     },
     {
       "id": "instagram-comportamento-musica-chiclete",
@@ -492,7 +500,11 @@
       "quando": "2026-11-14T17:00:00-03:00",
       "legenda": "Comente a simpatia de soluço que a sua família jura que funciona. Nenhuma é garantida.\n\nO soluço é o diafragma contraindo de repente. Logo depois as cordas vocais fecham, e o ar batendo ali faz o 'hic'.\n\nGatilhos comuns: comer rápido, bebida com gás e emoção forte. Bebês soluçam até dentro da barriga, e a ciência ainda não sabe bem pra quê.\n\nQuase sempre passa sozinho. Se durar mais de 2 dias, procure um médico (NHS, Cleveland Clinic).\n\n#saude #curiosidades #porqueagenteeassim",
       "arquivo": "soluco.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/soluco.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/soluco.mp4",
+      "post_id": "6af6597f5ec1c9d5be4d2d53",
+      "status": "scheduled",
+      "agendado_para": "2026-11-14T20:00:00.000Z",
+      "criado_em": "2026-11-13T00:27:43.226Z"
     },
     {
       "id": "tiktok-consumidor-orcamento-oficina",
@@ -502,7 +514,11 @@
       "quando": "2026-11-14T17:00:00-03:00",
       "legenda": "Comente OFICINA se o orçamento já dobrou na hora de buscar o carro.\n\nO art. 40 do Código de Defesa do Consumidor obriga a oficina a dar orçamento prévio, com peças, mão de obra, pagamento e prazo. Ele vale 10 dias e, aprovado, obriga as duas partes.\n\nServiço extra precisa da sua autorização antes. Sem ela, é prática abusiva (art. 39, VI), e você não responde pelo acréscimo (art. 40, § 3º).\n\nPeça tudo por escrito e guarde as mensagens.\n\nConteúdo informativo, não é consultoria jurídica.\n\n#direitodoconsumidor #oficina #podeissoedu",
       "arquivo": "orcamento-oficina.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/orcamento-oficina.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/orcamento-oficina.mp4",
+      "post_id": "6af6597fe1d8eff6108ee641",
+      "status": "scheduled",
+      "agendado_para": "2026-11-14T20:00:00.000Z",
+      "criado_em": "2026-11-13T00:27:43.891Z"
     },
     {
       "id": "instagram-comportamento-cafe-e-sono",
