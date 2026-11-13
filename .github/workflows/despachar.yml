@@ -18,7 +18,7 @@ concurrency:
 jobs:
   despachar:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 75   # Instagram direto: prepara o vídeo e espera o horário do post
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -28,3 +28,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BUFFER_CONFIG: ${{ secrets.BUFFER_CONFIG }}
+          INSTAGRAM_CONFIG: ${{ secrets.INSTAGRAM_CONFIG }}
