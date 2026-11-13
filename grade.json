@@ -282,8 +282,10 @@
       "arquivo": "entrega-atrasada.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/entrega-atrasada.mp4",
       "container_id": "17921619252306369",
-      "status": "preparando",
-      "criado_em": "2026-11-13T16:29:49.483Z"
+      "status": "sent",
+      "criado_em": "2026-11-13T16:29:49.483Z",
+      "post_id": "18132961843696761",
+      "publicado_em": "2026-11-13T16:30:44.856Z"
     },
     {
       "id": "tiktok-comportamento-deja-vu",
