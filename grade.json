@@ -266,8 +266,10 @@
       "arquivo": "deja-vu.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/deja-vu.mp4",
       "container_id": "18113320030946558",
-      "status": "preparando",
-      "criado_em": "2026-11-13T16:28:06.527Z"
+      "status": "sent",
+      "criado_em": "2026-11-13T16:28:06.527Z",
+      "post_id": "18607656250070656",
+      "publicado_em": "2026-11-13T16:29:43.046Z"
     },
     {
       "id": "instagram-consumidor-entrega-atrasada",
