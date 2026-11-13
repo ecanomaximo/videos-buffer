@@ -349,9 +349,11 @@
       "arquivo": "arrepio-com-musica.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/arrepio-com-musica.mp4",
       "post_id": "6af6f74a10ced6793b30d6f3",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-13T20:00:00.000Z",
-      "criado_em": "2026-11-13T11:40:58.230Z"
+      "criado_em": "2026-11-13T11:40:58.230Z",
+      "publicado_em": "2026-11-13T20:03:13.101Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7707748785509649685"
     },
     {
       "id": "tiktok-consumidor-cpf-na-farmacia",
@@ -363,9 +365,11 @@
       "arquivo": "cpf-na-farmacia.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cpf-na-farmacia.mp4",
       "post_id": "6af6f74a10ced6793b30d71e",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-13T20:00:00.000Z",
-      "criado_em": "2026-11-13T11:40:58.676Z"
+      "criado_em": "2026-11-13T11:40:58.676Z",
+      "publicado_em": "2026-11-13T20:03:05.044Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7707748707785084181"
     },
     {
       "id": "instagram-comportamento-efeito-zeigarnik",
@@ -685,7 +689,11 @@
       "quando": "2026-11-15T17:00:00-03:00",
       "legenda": "Comente CÓCEGAS se você tentou fazer em você mesmo agora. Tem motivo pra não funcionar.\n\nQuando o movimento é seu, o cerebelo prevê a sensação e o cérebro abaixa o volume dela. Sem surpresa, sem cócegas.\n\nPesquisadores de Londres (Blakemore, Wolpert e Frith, 1998 e 1999) usaram um robô: quando o toque vinha com um pequeno atraso, a previsão errava e a cócega voltava a funcionar.\n\n#psicologia #curiosidades #porqueagenteeassim",
       "arquivo": "cocegas-em-si-mesmo.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cocegas-em-si-mesmo.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cocegas-em-si-mesmo.mp4",
+      "post_id": "6af791a878196a0a972632da",
+      "status": "scheduled",
+      "agendado_para": "2026-11-15T20:00:00.000Z",
+      "criado_em": "2026-11-13T22:39:36.960Z"
     },
     {
       "id": "tiktok-consumidor-cobranca-constrangedora",
@@ -695,7 +703,11 @@
       "quando": "2026-11-15T17:00:00-03:00",
       "legenda": "Comente COBRANÇA se você não sabia: cobrador que expõe a sua dívida pode estar cometendo crime.\n\nO art. 42 do Código de Defesa do Consumidor proíbe expor ao ridículo, constranger ou ameaçar na cobrança. Falar da dívida pra chefe, colega, vizinho ou parente entra nisso.\n\nDependendo do caso é crime (art. 71): detenção de 3 meses a 1 ano, e multa.\n\nGrave as ligações, tire print das mensagens e anote nomes e horários.\n\nConteúdo informativo, não é consultoria jurídica.\n\n#direitodoconsumidor #dividas #podeissoedu",
       "arquivo": "cobranca-constrangedora.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cobranca-constrangedora.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cobranca-constrangedora.mp4",
+      "post_id": "6af791a9d16af15d4dd977b3",
+      "status": "scheduled",
+      "agendado_para": "2026-11-15T20:00:00.000Z",
+      "criado_em": "2026-11-13T22:39:37.468Z"
     },
     {
       "id": "instagram-sobrevivencia-gta6-tamanho-arquivos",
