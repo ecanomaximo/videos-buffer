@@ -329,8 +329,10 @@
       "arquivo": "arrepio-com-musica.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/arrepio-com-musica.mp4",
       "container_id": "18113385910946558",
-      "status": "preparando",
-      "criado_em": "2026-11-13T22:39:41.275Z"
+      "status": "sent",
+      "criado_em": "2026-11-13T22:39:41.275Z",
+      "post_id": "18083395187374063",
+      "publicado_em": "2026-11-13T22:40:33.883Z"
     },
     {
       "id": "instagram-consumidor-cpf-na-farmacia",
