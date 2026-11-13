@@ -8,12 +8,19 @@
 //      O Buffer Free aceita só 10 posts na fila por canal, por isso a semana não vai toda
 //      de uma vez: entra aos poucos, sempre com no máximo MAX_FILA por canal.
 //   3. Confere o status dos posts já agendados (sent / error).
-//   4. Apaga da release os vídeos cujos posts já saíram todos.
-//   5. Grava a grade de volta (API do GitHub, com nova tentativa se houver conflito).
+//   4. Grava a grade de volta (API do GitHub, com nova tentativa se houver conflito).
+//   5. Instagram direto (sem Buffer), para os canais com token em INSTAGRAM_CONFIG: a API da
+//      Meta não agenda, então o despachante prepara o vídeo até ADIANTO_MIN antes, espera o
+//      horário do post e publica. A grade é gravada a cada passo, para nunca postar duas vezes.
+//   6. Apaga da release os vídeos cujos posts já saíram todos.
 //
 // Variáveis (secrets do repositório, passadas pelo workflow):
 //   BUFFER_CONFIG  JSON: { "chaves": { "tiktok": "...", "instagram": "..." },
 //                          "canais": { "tiktok": { "<canal>": "<id>" }, "instagram": { ... } } }
+//   INSTAGRAM_CONFIG (opcional) JSON: { "<canal>": { "token": "...", "ig_id": "...", "api": "facebook" | "instagram" } }
+//                  Canal presente aqui publica o Instagram direto pela API da Meta.
+//                  api "facebook" = token de usuário do sistema (login unificado, graph.facebook.com);
+//                  "instagram" ou ausente = token do login do Instagram (graph.instagram.com).
 //   GITHUB_TOKEN, GITHUB_REPOSITORY (o Actions já fornece)
 //   GRADE_PATH (opcional, padrão grade.json), RELEASE_TAG (padrão videos)
 //   DRY_RUN=1 só mostra o que faria.
@@ -21,6 +28,8 @@
 const JANELA_H = 48;          // agenda com até 48 h de antecedência
 const MAX_FILA = 8;           // máximo de posts nossos na fila de cada canal (Free = 10)
 const ATRASO_MAX_H = 3;       // post atrasado até 3 h ainda sai na hora; depois disso é "perdido"
+const ADIANTO_MIN = 50;       // Instagram direto: começa a preparar até 50 min antes do horário
+const ESPERA_CONTAINER_MIN = 10; // tempo máximo para a Meta baixar e processar o vídeo
 const FINAIS = new Set(['sent', 'perdido']);
 
 const env = process.env;
@@ -29,6 +38,12 @@ const REPO = env.GITHUB_REPOSITORY;
 const GRADE = env.GRADE_PATH || 'grade.json';
 const TAG = env.RELEASE_TAG || 'videos';
 const cfg = JSON.parse(env.BUFFER_CONFIG || '{}');
+const ig = JSON.parse(env.INSTAGRAM_CONFIG || '{}');
+const IG_VERSAO = 'v27.0';
+const igApi = (canal) => `https://graph.${ig[canal].api === 'facebook' ? 'facebook' : 'instagram'}.com/${IG_VERSAO}`;
+// Instagram direto: canal com token da Meta. Post que já está no Buffer (tem post_id) segue por lá.
+const ehDireto = (p) => p.rede === 'instagram' && Boolean(ig[p.canal]?.token) && !p.post_id;
+const esperar = (ms) => new Promise((ok) => setTimeout(ok, ms));
 
 const log = (m) => console.log(m);
 function falhar(m) { throw new Error(m); }
@@ -121,6 +136,57 @@ async function statusPost(rede, id) {
   return post;
 }
 
+// ------------------------------------------------------------------ Instagram direto (API da Meta)
+
+async function graph(canal, caminho, metodo = 'GET', params = {}) {
+  const corpo = new URLSearchParams({ ...params, access_token: ig[canal].token });
+  const url = new URL(`${igApi(canal)}${caminho}`);
+  let r;
+  if (metodo === 'GET') { url.search = corpo.toString(); r = await fetch(url); } else r = await fetch(url, { method: metodo, body: corpo });
+  const j = await r.json().catch(() => ({}));
+  if (j.error) falhar(`Instagram ${caminho}: ${j.error.message} (code ${j.error.code})`);
+  return j;
+}
+
+// Prepara (se preciso), espera o horário e publica um Reel.
+// O container guardado na grade evita repetir: se uma execução anterior já publicou e caiu
+// antes de gravar, o container aparece como PUBLISHED e o post só é marcado como enviado.
+async function publicarDireto(p, salvar) {
+  const conta = ig[p.canal];
+  let container = p.container_id;
+  if (!container) {
+    const r = await graph(p.canal, `/${conta.ig_id}/media`, 'POST', {
+      media_type: 'REELS', video_url: p.url, caption: p.legenda, share_to_feed: 'true', thumb_offset: '1000',
+    });
+    container = r.id;
+    await salvar({ container_id: container, status: 'preparando', criado_em: new Date().toISOString() });
+    log(`${p.id}: container ${container} criado`);
+  }
+  const limite = Date.now() + ESPERA_CONTAINER_MIN * 60e3;
+  for (;;) {
+    const { status_code: s, status } = await graph(p.canal, `/${container}`, 'GET', { fields: 'status_code,status' });
+    if (s === 'PUBLISHED') {
+      await salvar({ status: 'sent', publicado_em: new Date().toISOString() });
+      return log(`${p.id}: já tinha sido publicado (container PUBLISHED)`);
+    }
+    if (s === 'FINISHED') break;
+    if (s === 'ERROR' || s === 'EXPIRED') {
+      await salvar({ container_id: null, status: null });
+      falhar(`a Meta recusou o vídeo (${status ?? s}); tento de novo na próxima execução`);
+    }
+    if (Date.now() > limite) falhar(`container ${container} ainda processando depois de ${ESPERA_CONTAINER_MIN} min`);
+    await esperar(20e3);
+  }
+  const falta = new Date(p.quando).getTime() - Date.now();
+  if (falta > 0) { log(`${p.id}: pronto; espero ${Math.round(falta / 60e3)} min até ${p.quando}`); await esperar(falta); }
+  const { id: midia } = await graph(p.canal, `/${conta.ig_id}/media_publish`, 'POST', { creation_id: container });
+  // grava antes de buscar o link: se o link falhar, o post não volta para a fila
+  await salvar({ post_id: midia, status: 'sent', publicado_em: new Date().toISOString() });
+  const { permalink } = await graph(p.canal, `/${midia}`, 'GET', { fields: 'permalink' }).catch(() => ({}));
+  if (permalink) await salvar({ link: permalink });
+  log(`${p.id}: publicado ${permalink ?? midia}`);
+}
+
 // ------------------------------------------------------------------ ciclo
 
 async function main() {
@@ -134,7 +200,7 @@ async function main() {
 
   // 1. status dos posts já criados
   for (const p of posts) {
-    if (!p.post_id || FINAIS.has(p.status)) continue;
+    if (!p.post_id || FINAIS.has(p.status) || p.container_id) continue;
     try {
       const s = await statusPost(p.rede, p.post_id);
       if (!s) { mudar(p, { status: 'error', erro: 'post não existe mais no Buffer' }); continue; }
@@ -154,7 +220,7 @@ async function main() {
     const k = `${p.rede}/${p.canal}`;
     naFila[k] = (naFila[k] ?? 0) + 1;
   }
-  const pendentes = posts.filter((p) => !p.post_id && !p.status).sort((a, b) => new Date(a.quando) - new Date(b.quando));
+  const pendentes = posts.filter((p) => !p.post_id && !p.status && !ehDireto(p)).sort((a, b) => new Date(a.quando) - new Date(b.quando));
   for (const p of pendentes) {
     const t = new Date(p.quando).getTime();
     if (t - agora > JANELA_H * 3600e3) continue;
@@ -178,7 +244,28 @@ async function main() {
     }
   }
 
-  // 3. limpa da release os vídeos que já saíram em todas as redes
+  // 3. Instagram direto: grava o que já mudou (o Buffer não espera por esta parte) e publica na hora
+  const diretos = posts.filter((p) => ehDireto(p) && !p.post_id && !FINAIS.has(p.status) && p.status !== 'error')
+    .sort((a, b) => new Date(a.quando) - new Date(b.quando));
+  if (diretos.length) await gravarGrade(mudancas, `despachar: ${Object.keys(mudancas).length} mudança(s)`);
+  for (const p of diretos) {
+    const t = new Date(p.quando).getTime();
+    if (t - Date.now() > ADIANTO_MIN * 60e3) continue;
+    if (Date.now() - t > ATRASO_MAX_H * 3600e3) {
+      mudar(p, { status: 'perdido', erro: `horário passou há mais de ${ATRASO_MAX_H} h sem publicar` });
+      log(`${p.id}: PERDIDO (era ${p.quando})`);
+      continue;
+    }
+    if (DRY) { log(`DRY_RUN: publicaria ${p.id} direto no Instagram às ${p.quando}`); continue; }
+    try {
+      await publicarDireto(p, async (m) => { mudar(p, m); await gravarGrade({ [p.id]: mudancas[p.id] }, `despachar: ${p.id} ${m.status ?? 'link'}`); });
+    } catch (e) {
+      erros++;
+      log(`${p.id}: ERRO no Instagram direto (${e.message})`);
+    }
+  }
+
+  // 4. limpa da release os vídeos que já saíram em todas as redes
   const rel = await gh('GET', `/repos/${REPO}/releases/tags/${TAG}`);
   if (rel.status === 200) {
     for (const a of rel.json.assets) {
