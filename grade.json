@@ -345,8 +345,10 @@
       "arquivo": "cpf-na-farmacia.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cpf-na-farmacia.mp4",
       "container_id": "17921694468306369",
-      "status": "preparando",
-      "criado_em": "2026-11-13T22:40:43.740Z"
+      "status": "sent",
+      "criado_em": "2026-11-13T22:40:43.740Z",
+      "post_id": "18239526175320852",
+      "publicado_em": "2026-11-13T22:41:38.498Z"
     },
     {
       "id": "tiktok-comportamento-arrepio-com-musica",
