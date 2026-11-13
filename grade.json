@@ -202,9 +202,11 @@
       "arquivo": "musica-chiclete.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/musica-chiclete.mp4",
       "post_id": "6af5c5029984f61a541502da",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-13T12:00:00.000Z",
-      "criado_em": "2026-11-12T13:54:10.401Z"
+      "criado_em": "2026-11-12T13:54:10.401Z",
+      "publicado_em": "2026-11-13T12:04:29.339Z",
+      "link": "https://www.instagram.com/reel/DfrlkBLlXab/"
     },
     {
       "id": "instagram-consumidor-arrependimento-compra-online",
@@ -216,9 +218,11 @@
       "arquivo": "arrependimento-compra-online.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/arrependimento-compra-online.mp4",
       "post_id": "6af5c502e7d7941c3fa3914d",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-13T12:00:00.000Z",
-      "criado_em": "2026-11-12T13:54:10.902Z"
+      "criado_em": "2026-11-12T13:54:10.902Z",
+      "publicado_em": "2026-11-13T12:05:09.597Z",
+      "link": "https://www.instagram.com/reel/Dfrlgu2Cm6h/"
     },
     {
       "id": "tiktok-comportamento-musica-chiclete",
@@ -230,9 +234,11 @@
       "arquivo": "musica-chiclete.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/musica-chiclete.mp4",
       "post_id": "6af5c503e7d7941c3fa391a0",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-13T12:00:00.000Z",
-      "criado_em": "2026-11-12T13:54:11.445Z"
+      "criado_em": "2026-11-12T13:54:11.445Z",
+      "publicado_em": "2026-11-13T12:03:42.217Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7707624806337760518"
     },
     {
       "id": "tiktok-consumidor-arrependimento-compra-online",
@@ -244,9 +250,11 @@
       "arquivo": "arrependimento-compra-online.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/arrependimento-compra-online.mp4",
       "post_id": "6af5c5038c721512231ee2d1",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-13T12:00:00.000Z",
-      "criado_em": "2026-11-12T13:54:12.067Z"
+      "criado_em": "2026-11-12T13:54:12.067Z",
+      "publicado_em": "2026-11-13T12:03:32.798Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7707625249755401473"
     },
     {
       "id": "instagram-comportamento-deja-vu",
@@ -278,9 +286,11 @@
       "arquivo": "deja-vu.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/deja-vu.mp4",
       "post_id": "6af6f7499a21933ffad088be",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-13T15:00:00.000Z",
-      "criado_em": "2026-11-13T11:40:57.323Z"
+      "criado_em": "2026-11-13T11:40:57.323Z",
+      "publicado_em": "2026-11-13T15:04:01.456Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7707671728914255124"
     },
     {
       "id": "tiktok-consumidor-entrega-atrasada",
@@ -292,9 +302,11 @@
       "arquivo": "entrega-atrasada.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/entrega-atrasada.mp4",
       "post_id": "6af6f74910ced6793b30d6bf",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-13T15:00:00.000Z",
-      "criado_em": "2026-11-13T11:40:57.741Z"
+      "criado_em": "2026-11-13T11:40:57.741Z",
+      "publicado_em": "2026-11-13T15:02:54.699Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7707671409744432391"
     },
     {
       "id": "instagram-comportamento-arrepio-com-musica",
@@ -516,7 +528,11 @@
       "quando": "2026-11-15T09:00:00-03:00",
       "legenda": "Comente até que horas você toma café. Num estudo, cafeína 6 horas antes de dormir tirou 1 hora de sono.\n\nA cafeína ocupa no cérebro o lugar da adenosina, a substância que se acumula ao longo do dia e dá sono. O cansaço continua ali; só o aviso não chega.\n\nNo estudo de Drake e colegas (2013), uma dose alta de cafeína tomada 6 horas antes de dormir ainda cortou mais de uma hora de sono, e muita gente nem percebeu.\n\nCada corpo reage de um jeito, mas o horário pesa tanto quanto a quantidade.\n\n#sono #cafe #porqueagenteeassim",
       "arquivo": "cafe-e-sono.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cafe-e-sono.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cafe-e-sono.mp4",
+      "post_id": "6af73a8f705172d78f6c0e5e",
+      "status": "scheduled",
+      "agendado_para": "2026-11-15T12:00:00.000Z",
+      "criado_em": "2026-11-13T16:27:59.351Z"
     },
     {
       "id": "tiktok-consumidor-desconto-no-pix-pode",
@@ -526,7 +542,11 @@
       "quando": "2026-11-15T09:00:00-03:00",
       "legenda": "Comente PIX se você achava que cobrar mais caro no cartão era proibido. Desde 2017, pode.\n\nA Lei 13.455/2017 autoriza preço diferente conforme o prazo ou a forma de pagamento: Pix, dinheiro, cartão, à vista ou parcelado.\n\nA regra que vale pro comércio: a diferença ou o desconto tem que estar informado em lugar visível, antes de você pagar (Lei 10.962/2004, art. 5º-A).\n\nPergunte antes e escolha a forma mais barata.\n\nConteúdo informativo, não é consultoria jurídica.\n\n#direitodoconsumidor #pix #podeissoedu",
       "arquivo": "desconto-no-pix-pode.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/desconto-no-pix-pode.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/desconto-no-pix-pode.mp4",
+      "post_id": "6af73a8f6c8fccfb786684af",
+      "status": "scheduled",
+      "agendado_para": "2026-11-15T12:00:00.000Z",
+      "criado_em": "2026-11-13T16:28:00.147Z"
     },
     {
       "id": "instagram-comportamento-por-que-esquecemos-sonhos",
@@ -556,7 +576,11 @@
       "quando": "2026-11-15T12:00:00-03:00",
       "legenda": "Comente SONHO e conte o sonho que você lembra até hoje. Tem motivo pra maioria sumir.\n\nDormindo, o cérebro grava mal as memórias. Você acorda, o dia começa, e o sonho se perde.\n\nPesquisadores franceses (Eichenlaub e colegas, 2014; Inserm) viram que quem lembra muito dos sonhos acorda mais vezes durante a noite, em despertares curtos. Uma hipótese: esse tempinho acordado ajuda a gravar.\n\nPra guardar um sonho: anote antes de pegar o celular.\n\n#sono #sonhos #porqueagenteeassim",
       "arquivo": "por-que-esquecemos-sonhos.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/por-que-esquecemos-sonhos.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/por-que-esquecemos-sonhos.mp4",
+      "post_id": "6af73a919d8ee6d1d961e80a",
+      "status": "scheduled",
+      "agendado_para": "2026-11-15T15:00:00.000Z",
+      "criado_em": "2026-11-13T16:28:01.246Z"
     },
     {
       "id": "tiktok-consumidor-conserto-30-dias",
@@ -566,7 +590,11 @@
       "quando": "2026-11-15T12:00:00-03:00",
       "legenda": "Comente CONSERTO se você não sabia: a assistência tem 30 dias pra resolver o defeito.\n\nÉ o art. 18 do Código de Defesa do Consumidor. Passou de 30 dias, quem escolhe é você: produto novo igual, dinheiro de volta corrigido ou desconto proporcional no preço.\n\nLoja e fabricante respondem juntos. Em produto essencial, você pode exigir a solução sem esperar o prazo (art. 18, § 3º).\n\nGuarde a ordem de serviço com a data de entrada.\n\nConteúdo informativo, não é consultoria jurídica.\n\n#direitodoconsumidor #assistenciatecnica #podeissoedu",
       "arquivo": "conserto-30-dias.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/conserto-30-dias.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/conserto-30-dias.mp4",
+      "post_id": "6af73a9138a1decc7496de0a",
+      "status": "scheduled",
+      "agendado_para": "2026-11-15T15:00:00.000Z",
+      "criado_em": "2026-11-13T16:28:02.151Z"
     },
     {
       "id": "instagram-comportamento-cocegas-em-si-mesmo",
