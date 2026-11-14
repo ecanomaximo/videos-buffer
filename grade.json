@@ -561,9 +561,11 @@
       "arquivo": "soluco.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/soluco.mp4",
       "post_id": "6af6f74dbd1182b0d3edfd5b",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-14T20:00:00.000Z",
-      "criado_em": "2026-11-13T11:41:01.356Z"
+      "criado_em": "2026-11-13T11:41:01.356Z",
+      "publicado_em": "2026-11-14T20:03:01.282Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7708119911129697537"
     },
     {
       "id": "tiktok-consumidor-orcamento-oficina",
@@ -575,9 +577,11 @@
       "arquivo": "orcamento-oficina.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/orcamento-oficina.mp4",
       "post_id": "6af6f74d7828e7ae1b07ac1b",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-14T20:00:00.000Z",
-      "criado_em": "2026-11-13T11:41:01.821Z"
+      "criado_em": "2026-11-13T11:41:01.821Z",
+      "publicado_em": "2026-11-14T20:03:04.407Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7708119786470821140"
     },
     {
       "id": "instagram-sobrevivencia-gta6-finais-jason-lucia",
@@ -887,7 +891,11 @@
       "quando": "2026-11-16T17:00:00-03:00",
       "legenda": "Comente PÁGINA se você lê e esquece tudo: num estudo, a mente estava longe em 47% do tempo acordado.\n\nNum estudo com milhares de pessoas, Killingsworth e Gilbert (2010) perguntavam pelo celular, em horários aleatórios, o que elas estavam fazendo e no que estavam pensando. Em 47% das respostas, a mente estava em outra coisa.\n\nOutro achado: nos momentos de mente longe, as pessoas diziam estar menos felizes.\n\nDivagar também serve para planejar e ter ideias. Quando você precisa focar, ajuda ler em blocos curtos e resumir em voz alta.\n\n#psicologia #foco #porqueagenteeassim",
       "arquivo": "mente-que-divaga.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/mente-que-divaga.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/mente-que-divaga.mp4",
+      "post_id": "6af8e019e86a5789a6d5d058",
+      "status": "scheduled",
+      "agendado_para": "2026-11-16T20:00:00.000Z",
+      "criado_em": "2026-11-14T22:26:34.078Z"
     },
     {
       "id": "tiktok-consumidor-erro-de-preco-no-site",
@@ -897,7 +905,11 @@
       "quando": "2026-11-16T17:00:00-03:00",
       "legenda": "Comente CANCELOU se a loja já cancelou sua compra: oferta obriga (CDC, art. 30), mas erro grosseiro de preço livra a loja.\n\nA regra é clara: a oferta anunciada obriga a loja (CDC, art. 30). Se ela não cumprir, você pode exigir o produto pelo preço do anúncio (art. 35).\n\nA exceção é o erro grosseiro, aquele que ninguém confundiria com promoção. Em 2020, o STJ decidiu que um erro desses no sistema não obriga a empresa, ainda mais quando ela avisa logo e não cobra nada.\n\nDesconto alto, mas possível, vale. Guarde o print do anúncio e o e-mail do pedido.\n\nConteúdo informativo, não é consultoria jurídica.\n\n#direitodoconsumidor #comprasonline #podeissoedu",
       "arquivo": "erro-de-preco-no-site.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/erro-de-preco-no-site.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/erro-de-preco-no-site.mp4",
+      "post_id": "6af8e01a76c23bf1c743c868",
+      "status": "scheduled",
+      "agendado_para": "2026-11-16T20:00:00.000Z",
+      "criado_em": "2026-11-14T22:26:34.663Z"
     },
     {
       "id": "instagram-comportamento-estalar-os-dedos",
