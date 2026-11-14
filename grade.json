@@ -425,9 +425,11 @@
       "arquivo": "efeito-zeigarnik.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/efeito-zeigarnik.mp4",
       "post_id": "6af6f74bbd1182b0d3edfc6b",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-14T12:00:00.000Z",
-      "criado_em": "2026-11-13T11:40:59.146Z"
+      "criado_em": "2026-11-13T11:40:59.146Z",
+      "publicado_em": "2026-11-14T12:04:14.869Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7707995971560492340"
     },
     {
       "id": "tiktok-consumidor-produto-vencido-prateleira",
@@ -439,9 +441,11 @@
       "arquivo": "produto-vencido-prateleira.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/produto-vencido-prateleira.mp4",
       "post_id": "6af6f74b9a21933ffad0897a",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-14T12:00:00.000Z",
-      "criado_em": "2026-11-13T11:40:59.675Z"
+      "criado_em": "2026-11-13T11:40:59.675Z",
+      "publicado_em": "2026-11-14T12:03:47.897Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7707996312444112134"
     },
     {
       "id": "instagram-sobrevivencia-gta6-mapa-tour-vice-city",
@@ -489,9 +493,11 @@
       "arquivo": "esquecer-ao-entrar-no-comodo.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/esquecer-ao-entrar-no-comodo.mp4",
       "post_id": "6af6f74c10ced6793b30d808",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-14T15:00:00.000Z",
-      "criado_em": "2026-11-13T11:41:00.233Z"
+      "criado_em": "2026-11-13T11:41:00.233Z",
+      "publicado_em": "2026-11-14T15:04:24.220Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7708042943751392519"
     },
     {
       "id": "tiktok-consumidor-consumacao-minima-balada",
@@ -503,9 +509,11 @@
       "arquivo": "consumacao-minima-balada.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/consumacao-minima-balada.mp4",
       "post_id": "6af6f74c66ff9797d87c75ee",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-14T15:00:00.000Z",
-      "criado_em": "2026-11-13T11:41:00.748Z"
+      "criado_em": "2026-11-13T11:41:00.748Z",
+      "publicado_em": "2026-11-14T15:05:24.269Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7708042798251003142"
     },
     {
       "id": "instagram-sobrevivencia-gta6-armas-limite",
@@ -777,7 +785,11 @@
       "quando": "2026-11-16T09:00:00-03:00",
       "legenda": "Comente TRANQUEI se você volta pra conferir a porta: num estudo, conferir várias vezes deixou a memória menos nítida.\n\nTrancar a porta é tão automático que a memória daquele momento fica fraca. Por isso bate a dúvida.\n\nO curioso: num estudo de van den Hout e Kindt (2003), quem repetia a conferência várias vezes passou a lembrar com menos nitidez e menos confiança do que tinha visto. As lembranças se misturam.\n\nO truque é prestar atenção uma vez só, de propósito: olhar a chave, sentir o clique e dizer \"tranquei\".\n\nSe conferir virou sofrimento diário, vale conversar com um profissional de saúde mental.\n\n#psicologia #memoria #porqueagenteeassim",
       "arquivo": "conferir-a-porta-de-novo.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/conferir-a-porta-de-novo.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/conferir-a-porta-de-novo.mp4",
+      "post_id": "6af8a2d7e5a113497a9d0857",
+      "status": "scheduled",
+      "agendado_para": "2026-11-16T12:00:00.000Z",
+      "criado_em": "2026-11-14T18:05:11.719Z"
     },
     {
       "id": "tiktok-consumidor-pix-trocado-black-friday",
@@ -787,7 +799,11 @@
       "quando": "2026-11-16T09:00:00-03:00",
       "legenda": "Comente PIX se você vai conferir nome e CNPJ na última tela antes de pagar na Black Friday.\n\nNo golpe do Pix trocado, a loja é de verdade, mas o QR Code ou o copia e cola leva para outra conta.\n\nAntes de confirmar, veja na última tela do banco se o nome, o CNPJ e o valor são os da loja.\n\nCaiu no golpe? Peça o MED no app do banco, na opção de contestar o Pix. O prazo é de até 80 dias, mas quanto antes, maior a chance de ainda ter saldo para devolver. Faça boletim de ocorrência e guarde os prints.\n\nSite que só aceita Pix e dá desconto enorme é sinal de site falso.\n\nConteúdo informativo, não é consultoria jurídica.\n\n#blackfriday #golpedopix #podeissoedu",
       "arquivo": "pix-trocado-black-friday.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/pix-trocado-black-friday.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/pix-trocado-black-friday.mp4",
+      "post_id": "6af8a2d8e86a5789a6c321ba",
+      "status": "scheduled",
+      "agendado_para": "2026-11-16T12:00:00.000Z",
+      "criado_em": "2026-11-14T18:05:12.454Z"
     },
     {
       "id": "instagram-comportamento-nojo-de-barata",
@@ -817,7 +833,11 @@
       "quando": "2026-11-16T12:00:00-03:00",
       "legenda": "Comente BARATA se você sobe na cadeira: o nojo é um alarme do corpo contra doença, e a barata vive no esgoto.\n\nO nojo funciona como um sistema de defesa contra doenças. Ele dispara diante do que lembra sujeira, comida estragada e contágio (Curtis, de Barra e Aunger, 2011).\n\nA barata vive em esgoto e lixo e pode levar microrganismos para a comida. A borboleta vive entre flores, e o cérebro não a associa a doença.\n\nO jeito rápido e imprevisível como a barata corre ainda aumenta o susto. Com costume, o nojo diminui. Pavor que trava a vida já merece ajuda profissional.\n\n#psicologia #nojo #porqueagenteeassim",
       "arquivo": "nojo-de-barata.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/nojo-de-barata.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/nojo-de-barata.mp4",
+      "post_id": "6af8a2d9e86a5789a6c32217",
+      "status": "scheduled",
+      "agendado_para": "2026-11-16T15:00:00.000Z",
+      "criado_em": "2026-11-14T18:05:13.220Z"
     },
     {
       "id": "tiktok-consumidor-black-friday-metade-do-dobro",
@@ -827,7 +847,11 @@
       "quando": "2026-11-16T12:00:00-03:00",
       "legenda": "Comente METADE se já viu preço subir antes da Black Friday: anúncio que engana no preço é proibido (CDC, art. 37).\n\nA tática tem nome: \"metade do dobro\". A loja sobe o preço semanas antes e anuncia 50% de desconto em cima do valor inflado.\n\nO Código de Defesa do Consumidor proíbe publicidade que induz o consumidor a erro sobre o preço (art. 37).\n\nComece hoje: tire print dos produtos que você quer comprar. Sites de comparação também guardam o histórico de preço. Se o desconto for falso, reclame no Procon com os prints e a nota.\n\nConteúdo informativo, não é consultoria jurídica.\n\n#blackfriday #direitodoconsumidor #podeissoedu",
       "arquivo": "black-friday-metade-do-dobro.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/black-friday-metade-do-dobro.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/black-friday-metade-do-dobro.mp4",
+      "post_id": "6af8a2d9e86a5789a6c32280",
+      "status": "scheduled",
+      "agendado_para": "2026-11-16T15:00:00.000Z",
+      "criado_em": "2026-11-14T18:05:13.909Z"
     },
     {
       "id": "instagram-comportamento-mente-que-divaga",
