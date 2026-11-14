@@ -409,8 +409,10 @@
       "arquivo": "produto-vencido-prateleira.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/produto-vencido-prateleira.mp4",
       "container_id": "17921888727306369",
-      "status": "preparando",
-      "criado_em": "2026-11-14T12:00:13.845Z"
+      "status": "sent",
+      "criado_em": "2026-11-14T12:00:13.845Z",
+      "post_id": "18119972714613339",
+      "publicado_em": "2026-11-14T12:01:25.746Z"
     },
     {
       "id": "tiktok-comportamento-efeito-zeigarnik",
