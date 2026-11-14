@@ -393,8 +393,10 @@
       "arquivo": "efeito-zeigarnik.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/efeito-zeigarnik.mp4",
       "container_id": "18113539747946558",
-      "status": "preparando",
-      "criado_em": "2026-11-14T11:29:49.705Z"
+      "status": "sent",
+      "criado_em": "2026-11-14T11:29:49.705Z",
+      "post_id": "18124374919933264",
+      "publicado_em": "2026-11-14T12:00:09.125Z"
     },
     {
       "id": "instagram-consumidor-produto-vencido-prateleira",
