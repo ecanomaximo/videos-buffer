@@ -541,8 +541,10 @@
       "arquivo": "soluco.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/soluco.mp4",
       "container_id": "18113699437946558",
-      "status": "preparando",
-      "criado_em": "2026-11-14T22:26:39.036Z"
+      "status": "sent",
+      "criado_em": "2026-11-14T22:26:39.036Z",
+      "post_id": "18019392815974284",
+      "publicado_em": "2026-11-14T22:27:32.410Z"
     },
     {
       "id": "instagram-consumidor-orcamento-oficina",
