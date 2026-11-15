@@ -637,8 +637,10 @@
       "arquivo": "desconto-no-pix-pode.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/desconto-no-pix-pode.mp4",
       "container_id": "17922309564306369",
-      "status": "preparando",
-      "criado_em": "2026-11-15T14:48:44.732Z"
+      "status": "sent",
+      "criado_em": "2026-11-15T14:48:44.732Z",
+      "post_id": "18251256715312488",
+      "publicado_em": "2026-11-15T14:49:35.310Z"
     },
     {
       "id": "tiktok-comportamento-cafe-e-sono",
