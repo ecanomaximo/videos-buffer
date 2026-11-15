@@ -641,9 +641,11 @@
       "arquivo": "cafe-e-sono.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cafe-e-sono.mp4",
       "post_id": "6af73a8f705172d78f6c0e5e",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-15T12:00:00.000Z",
-      "criado_em": "2026-11-13T16:27:59.351Z"
+      "criado_em": "2026-11-13T16:27:59.351Z",
+      "publicado_em": "2026-11-15T12:05:02.970Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7708367650073611538"
     },
     {
       "id": "tiktok-consumidor-desconto-no-pix-pode",
@@ -655,9 +657,11 @@
       "arquivo": "desconto-no-pix-pode.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/desconto-no-pix-pode.mp4",
       "post_id": "6af73a8f6c8fccfb786684af",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-15T12:00:00.000Z",
-      "criado_em": "2026-11-13T16:28:00.147Z"
+      "criado_em": "2026-11-13T16:28:00.147Z",
+      "publicado_em": "2026-11-15T12:05:00.142Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7708367637683653909"
     },
     {
       "id": "instagram-sobrevivencia-gta6-carros-reais",
@@ -957,7 +961,11 @@
       "quando": "2026-11-17T09:00:00-03:00",
       "legenda": "Comente ESTALO se você estala os dedos: um médico estalou só uma mão por 60 anos e nenhuma das duas teve artrite.\n\nO estalo vem de dentro da junta, onde há um líquido lubrificante. Quando a junta é puxada, forma-se uma bolha de gás. Em 2015, pesquisadores filmaram isso pela primeira vez numa ressonância (Kawchuk e colegas).\n\nE a artrite? O médico Donald Unger estalou os dedos de uma mão só, por cerca de 60 anos. Nenhuma das duas mãos teve artrite. Estudos com mais pessoas também não acharam ligação.\n\nEstalo com dor, inchaço ou perda de movimento é outra história: aí vale procurar um médico.\n\n#corpohumano #curiosidades #porqueagenteeassim",
       "arquivo": "estalar-os-dedos.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/estalar-os-dedos.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/estalar-os-dedos.mp4",
+      "post_id": "6af9c5ea918fe79d2eecac33",
+      "status": "scheduled",
+      "agendado_para": "2026-11-17T12:00:00.000Z",
+      "criado_em": "2026-11-15T14:47:06.476Z"
     },
     {
       "id": "tiktok-consumidor-sac-robo-nao-cancela",
@@ -967,7 +975,11 @@
       "quando": "2026-11-17T09:00:00-03:00",
       "legenda": "Comente ROBÔ se já ficou preso no SAC: desde 2/11, cancelar tem que estar no 1º menu.\n\nO Decreto 13.135/2026 trouxe regras novas para o SAC das empresas de setores regulados pelo governo federal, como telefonia, internet, TV, energia, bancos, planos de saúde e companhias aéreas.\n\nO robô pode fazer a triagem, mas não pode te impedir de falar com uma pessoa. Tem que haver atendimento humano das 8h às 20h, todos os dias.\n\nA opção de cancelar aparece logo no primeiro menu, sem te mandar para outro setor, e o cancelamento vale na hora. O que estiver pendente de pagamento se acerta à parte.\n\nAnote o protocolo. Se a empresa negar, reclame no Procon ou no consumidor.gov.br.\n\nConteúdo informativo, não é consultoria jurídica.\n\n#direitodoconsumidor #sac #podeissoedu",
       "arquivo": "sac-robo-nao-cancela.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/sac-robo-nao-cancela.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/sac-robo-nao-cancela.mp4",
+      "post_id": "6af9c5ebe5a113497af33f9a",
+      "status": "scheduled",
+      "agendado_para": "2026-11-17T12:00:00.000Z",
+      "criado_em": "2026-11-15T14:47:07.144Z"
     },
     {
       "id": "instagram-comportamento-dedos-enrugados-na-agua",
