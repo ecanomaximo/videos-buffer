@@ -5,7 +5,11 @@ name: despachar
 
 on:
   schedule:
-    - cron: "17 * * * *"   # todo minuto 17 (UTC); o GitHub pode atrasar alguns minutos
+    - cron: "17 * * * *"   # todo minuto 17 (UTC); o GitHub pode atrasar e até pular execuções
+    # Instagram direto só sai se o despachante estiver rodando perto do horário. Como o GitHub
+    # atrasa o cron de hora em hora (em 15/11 ficou 8 h sem rodar), há tentativas extras antes
+    # de cada horário: 09:00, 12:00 e 17:00 de Brasília = 12, 15 e 20 UTC.
+    - cron: "5,25,40,50 11,14,19 * * *"
   workflow_dispatch: {}      # botão "Run workflow" para rodar na hora
 
 permissions:
