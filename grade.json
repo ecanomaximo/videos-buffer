@@ -685,8 +685,10 @@
       "arquivo": "gta6-carros-reais.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/gta6-carros-reais.mp4",
       "container_id": "17992733015905519",
-      "status": "preparando",
-      "criado_em": "2026-11-15T14:49:39.177Z"
+      "status": "sent",
+      "criado_em": "2026-11-15T14:49:39.177Z",
+      "post_id": "18118811282591530",
+      "publicado_em": "2026-11-15T14:50:29.897Z"
     },
     {
       "id": "instagram-comportamento-por-que-esquecemos-sonhos",
