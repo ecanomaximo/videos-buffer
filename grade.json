@@ -845,8 +845,10 @@
       "arquivo": "gta6-tamanho-arquivos.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/gta6-tamanho-arquivos.mp4",
       "container_id": "17992847288905519",
-      "status": "preparando",
-      "criado_em": "2026-11-15T22:52:30.126Z"
+      "status": "sent",
+      "criado_em": "2026-11-15T22:52:30.126Z",
+      "post_id": "18647137372014393",
+      "publicado_em": "2026-11-15T22:53:41.004Z"
     },
     {
       "id": "instagram-comportamento-conferir-a-porta-de-novo",
