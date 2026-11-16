@@ -877,8 +877,10 @@
       "arquivo": "pix-trocado-black-friday.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/pix-trocado-black-friday.mp4",
       "container_id": "17922563670306369",
-      "status": "preparando",
-      "criado_em": "2026-11-16T12:00:24.855Z"
+      "status": "sent",
+      "criado_em": "2026-11-16T12:00:24.855Z",
+      "post_id": "18196516726403881",
+      "publicado_em": "2026-11-16T12:01:37.638Z"
     },
     {
       "id": "tiktok-comportamento-conferir-a-porta-de-novo",
