@@ -1025,8 +1025,10 @@
       "arquivo": "erro-de-preco-no-site.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/erro-de-preco-no-site.mp4",
       "container_id": "17922679908306369",
-      "status": "preparando",
-      "criado_em": "2026-11-16T20:02:13.038Z"
+      "status": "sent",
+      "criado_em": "2026-11-16T20:02:13.038Z",
+      "post_id": "18042995357837189",
+      "publicado_em": "2026-11-16T20:03:06.186Z"
     },
     {
       "id": "tiktok-comportamento-mente-que-divaga",
