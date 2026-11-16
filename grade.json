@@ -951,8 +951,10 @@
       "arquivo": "black-friday-metade-do-dobro.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/black-friday-metade-do-dobro.mp4",
       "container_id": "17922612738306369",
-      "status": "preparando",
-      "criado_em": "2026-11-16T15:02:37.344Z"
+      "status": "sent",
+      "criado_em": "2026-11-16T15:02:37.344Z",
+      "post_id": "18156613510521645",
+      "publicado_em": "2026-11-16T15:03:36.122Z"
     },
     {
       "id": "tiktok-comportamento-nojo-de-barata",
