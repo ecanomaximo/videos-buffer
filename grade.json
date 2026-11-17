@@ -1099,8 +1099,10 @@
       "arquivo": "sac-robo-nao-cancela.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/sac-robo-nao-cancela.mp4",
       "container_id": "17922864099306369",
-      "status": "preparando",
-      "criado_em": "2026-11-17T14:28:35.803Z"
+      "status": "sent",
+      "criado_em": "2026-11-17T14:28:35.803Z",
+      "post_id": "17963132247255972",
+      "publicado_em": "2026-11-17T14:30:30.263Z"
     },
     {
       "id": "tiktok-comportamento-estalar-os-dedos",
