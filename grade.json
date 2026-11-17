@@ -1243,8 +1243,10 @@
       "arquivo": "internet-caiu-desconto.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/internet-caiu-desconto.mp4",
       "container_id": "17922924648306369",
-      "status": "preparando",
-      "criado_em": "2026-11-17T20:00:21.187Z"
+      "status": "sent",
+      "criado_em": "2026-11-17T20:00:21.187Z",
+      "post_id": "18034720349917638",
+      "publicado_em": "2026-11-17T20:01:13.065Z"
     },
     {
       "id": "tiktok-comportamento-espirro-olhando-o-sol",
