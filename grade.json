@@ -1211,8 +1211,10 @@
       "arquivo": "gta6-edicoes.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/gta6-edicoes.mp4",
       "container_id": "17993404970905519",
-      "status": "preparando",
-      "criado_em": "2026-11-17T15:01:39.078Z"
+      "status": "sent",
+      "criado_em": "2026-11-17T15:01:39.078Z",
+      "post_id": "17953433634084281",
+      "publicado_em": "2026-11-17T15:02:54.365Z"
     },
     {
       "id": "instagram-comportamento-espirro-olhando-o-sol",
