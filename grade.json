@@ -1173,8 +1173,10 @@
       "arquivo": "voo-atrasado-direitos.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/voo-atrasado-direitos.mp4",
       "container_id": "17922871332306369",
-      "status": "preparando",
-      "criado_em": "2026-11-17T15:00:18.913Z"
+      "status": "sent",
+      "criado_em": "2026-11-17T15:00:18.913Z",
+      "post_id": "18115078412167554",
+      "publicado_em": "2026-11-17T15:01:32.707Z"
     },
     {
       "id": "tiktok-comportamento-dedos-enrugados-na-agua",
