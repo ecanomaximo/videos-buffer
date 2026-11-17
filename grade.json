@@ -1227,8 +1227,10 @@
       "arquivo": "espirro-olhando-o-sol.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/espirro-olhando-o-sol.mp4",
       "container_id": "18114603085946558",
-      "status": "preparando",
-      "criado_em": "2026-11-17T19:46:08.486Z"
+      "status": "sent",
+      "criado_em": "2026-11-17T19:46:08.486Z",
+      "post_id": "18086237600734646",
+      "publicado_em": "2026-11-17T20:00:15.666Z"
     },
     {
       "id": "instagram-consumidor-internet-caiu-desconto",
