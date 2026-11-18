@@ -1297,8 +1297,10 @@
       "arquivo": "voz-gravada-estranha.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/voz-gravada-estranha.mp4",
       "container_id": "18114783865946558",
-      "status": "preparando",
-      "criado_em": "2026-11-18T14:00:34.478Z"
+      "status": "sent",
+      "criado_em": "2026-11-18T14:00:34.478Z",
+      "post_id": "18213761860367835",
+      "publicado_em": "2026-11-18T14:01:47.044Z"
     },
     {
       "id": "instagram-consumidor-consignado-come-salario",
