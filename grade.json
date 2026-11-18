@@ -1313,8 +1313,10 @@
       "arquivo": "consignado-come-salario.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/consignado-come-salario.mp4",
       "container_id": "17923085136306369",
-      "status": "preparando",
-      "criado_em": "2026-11-18T14:01:51.968Z"
+      "status": "sent",
+      "criado_em": "2026-11-18T14:01:51.968Z",
+      "post_id": "17922852903245454",
+      "publicado_em": "2026-11-18T14:02:46.156Z"
     },
     {
       "id": "tiktok-comportamento-voz-gravada-estranha",
