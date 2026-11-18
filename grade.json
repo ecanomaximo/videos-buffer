@@ -1351,8 +1351,10 @@
       "arquivo": "gta6-ps5-diferente.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/gta6-ps5-diferente.mp4",
       "container_id": "17993708792905519",
-      "status": "preparando",
-      "criado_em": "2026-11-18T14:02:50.322Z"
+      "status": "sent",
+      "criado_em": "2026-11-18T14:02:50.322Z",
+      "post_id": "17974745091192791",
+      "publicado_em": "2026-11-18T14:04:02.640Z"
     },
     {
       "id": "instagram-comportamento-falar-sozinho",
