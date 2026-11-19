@@ -1511,8 +1511,10 @@
       "arquivo": "reembolso-devolucao-demora.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/reembolso-devolucao-demora.mp4",
       "container_id": "17923300077306369",
-      "status": "preparando",
-      "criado_em": "2026-11-19T13:13:16.298Z"
+      "status": "sent",
+      "criado_em": "2026-11-19T13:13:16.298Z",
+      "post_id": "17908102158355282",
+      "publicado_em": "2026-11-19T13:14:31.829Z"
     },
     {
       "id": "tiktok-comportamento-efeito-ikea",
