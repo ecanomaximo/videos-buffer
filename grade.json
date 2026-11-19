@@ -1495,8 +1495,10 @@
       "arquivo": "efeito-ikea.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/efeito-ikea.mp4",
       "container_id": "18115031779946558",
-      "status": "preparando",
-      "criado_em": "2026-11-19T13:12:19.359Z"
+      "status": "sent",
+      "criado_em": "2026-11-19T13:12:19.359Z",
+      "post_id": "18344911699256382",
+      "publicado_em": "2026-11-19T13:13:11.320Z"
     },
     {
       "id": "instagram-consumidor-reembolso-devolucao-demora",
