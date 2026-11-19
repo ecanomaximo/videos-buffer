@@ -1591,8 +1591,10 @@
       "arquivo": "espaco-pra-sobremesa.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/espaco-pra-sobremesa.mp4",
       "container_id": "18115117966946558",
-      "status": "preparando",
-      "criado_em": "2026-11-19T19:27:38.062Z"
+      "status": "sent",
+      "criado_em": "2026-11-19T19:27:38.062Z",
+      "post_id": "18139648204731916",
+      "publicado_em": "2026-11-19T20:00:08.059Z"
     },
     {
       "id": "instagram-consumidor-nome-limpo-5-dias",
