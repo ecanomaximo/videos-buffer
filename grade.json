@@ -1665,8 +1665,10 @@
       "arquivo": "esquecer-o-nome-na-hora.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/esquecer-o-nome-na-hora.mp4",
       "container_id": "18115285105946558",
-      "status": "preparando",
-      "criado_em": "2026-11-20T12:55:37.643Z"
+      "status": "sent",
+      "criado_em": "2026-11-20T12:55:37.643Z",
+      "post_id": "18128213584917891",
+      "publicado_em": "2026-11-20T12:56:29.026Z"
     },
     {
       "id": "instagram-consumidor-couvert-sem-aviso",
