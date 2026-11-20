@@ -1781,8 +1781,10 @@
       "arquivo": "telemarketing-nao-me-perturbe.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/telemarketing-nao-me-perturbe.mp4",
       "container_id": "17923615725306369",
-      "status": "preparando",
-      "criado_em": "2026-11-20T21:08:15.085Z"
+      "status": "sent",
+      "criado_em": "2026-11-20T21:08:15.085Z",
+      "post_id": "18109541390629518",
+      "publicado_em": "2026-11-20T21:09:46.064Z"
     },
     {
       "id": "tiktok-comportamento-cheiro-traz-memoria",
