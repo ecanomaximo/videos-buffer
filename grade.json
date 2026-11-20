@@ -1765,8 +1765,10 @@
       "arquivo": "cheiro-traz-memoria.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cheiro-traz-memoria.mp4",
       "container_id": "18115414258946558",
-      "status": "preparando",
-      "criado_em": "2026-11-20T21:07:20.928Z"
+      "status": "sent",
+      "criado_em": "2026-11-20T21:07:20.928Z",
+      "post_id": "17982694047125118",
+      "publicado_em": "2026-11-20T21:08:11.303Z"
     },
     {
       "id": "instagram-consumidor-telemarketing-nao-me-perturbe",
