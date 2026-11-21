@@ -1877,8 +1877,10 @@
       "arquivo": "notebook-nao-entregue.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/notebook-nao-entregue.mp4",
       "container_id": "17923820463306369",
-      "status": "preparando",
-      "criado_em": "2026-11-21T17:57:05.837Z"
+      "status": "sent",
+      "criado_em": "2026-11-21T17:57:05.837Z",
+      "post_id": "17911130748331399",
+      "publicado_em": "2026-11-21T17:58:23.723Z"
     },
     {
       "id": "tiktok-comportamento-fila-do-lado-anda-mais",
