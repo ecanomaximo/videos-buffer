@@ -1861,8 +1861,10 @@
       "arquivo": "fila-do-lado-anda-mais.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/fila-do-lado-anda-mais.mp4",
       "container_id": "18115692883946558",
-      "status": "preparando",
-      "criado_em": "2026-11-21T17:56:23.538Z"
+      "status": "sent",
+      "criado_em": "2026-11-21T17:56:23.538Z",
+      "post_id": "18134331334833781",
+      "publicado_em": "2026-11-21T17:56:59.702Z"
     },
     {
       "id": "instagram-consumidor-notebook-nao-entregue",
