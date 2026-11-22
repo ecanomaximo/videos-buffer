@@ -1954,6 +1954,726 @@
       "arquivo": "lava-jato-riscou.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/lava-jato-riscou.mp4",
       "status": "studio-agendado"
+    },
+    {
+      "id": "instagram-comportamento-tranco-ao-dormir",
+      "rede": "instagram",
+      "canal": "comportamento",
+      "slug": "tranco-ao-dormir",
+      "quando": "2026-11-23T09:00:00-03:00",
+      "legenda": "Comente TRANCO se você leva um susto pegando no sono. Até 7 em cada 10 pessoas já sentiram esse abalo.\n\nAquele tranco na hora de dormir se chama abalo hípnico, ou mioclonia do sono. Estimativas indicam que até 70% das pessoas já sentiram.\n\nA explicação mais citada: ao pegar no sono, os músculos relaxam de repente, e o cérebro interpreta isso como uma queda, mandando o corpo se segurar.\n\nCafeína, estresse e cansaço parecem deixar o tranco mais frequente. Em geral é inofensivo. Se for muito frequente ou atrapalhar o sono, vale falar com um médico.\n\n#sono #curiosidades #porqueagenteeassim",
+      "arquivo": "tranco-ao-dormir.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/tranco-ao-dormir.mp4"
+    },
+    {
+      "id": "instagram-consumidor-golpe-falsa-central",
+      "rede": "instagram",
+      "canal": "consumidor",
+      "slug": "golpe-falsa-central",
+      "quando": "2026-11-23T09:00:00-03:00",
+      "legenda": "Comente BANCO se já te ligaram pedindo pra transferir para uma conta segura. Banco nenhum faz isso.\n\nNo golpe da falsa central, alguém liga se passando pelo banco, às vezes com o número do banco na tela, e pede para transferir o dinheiro para uma conta segura.\n\nA Febraban repete: banco não liga pedindo senha, código nem transferência. Desligue, espere alguns minutos e ligue você para o número que está atrás do cartão.\n\nSe o Pix já saiu, avise o banco na hora e peça o MED, o Mecanismo Especial de Devolução do Banco Central.\n\n#golpe #banco #podeissoedu",
+      "arquivo": "golpe-falsa-central.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/golpe-falsa-central.mp4"
+    },
+    {
+      "id": "tiktok-comportamento-tranco-ao-dormir",
+      "rede": "tiktok",
+      "canal": "comportamento",
+      "slug": "tranco-ao-dormir",
+      "quando": "2026-11-23T09:00:00-03:00",
+      "legenda": "Comente TRANCO se você leva um susto pegando no sono. Até 7 em cada 10 pessoas já sentiram esse abalo.\n\nAquele tranco na hora de dormir se chama abalo hípnico, ou mioclonia do sono. Estimativas indicam que até 70% das pessoas já sentiram.\n\nA explicação mais citada: ao pegar no sono, os músculos relaxam de repente, e o cérebro interpreta isso como uma queda, mandando o corpo se segurar.\n\nCafeína, estresse e cansaço parecem deixar o tranco mais frequente. Em geral é inofensivo. Se for muito frequente ou atrapalhar o sono, vale falar com um médico.\n\n#sono #curiosidades #porqueagenteeassim",
+      "arquivo": "tranco-ao-dormir.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/tranco-ao-dormir.mp4"
+    },
+    {
+      "id": "tiktok-consumidor-golpe-falsa-central",
+      "rede": "tiktok",
+      "canal": "consumidor",
+      "slug": "golpe-falsa-central",
+      "quando": "2026-11-23T09:00:00-03:00",
+      "legenda": "Comente BANCO se já te ligaram pedindo pra transferir para uma conta segura. Banco nenhum faz isso.\n\nNo golpe da falsa central, alguém liga se passando pelo banco, às vezes com o número do banco na tela, e pede para transferir o dinheiro para uma conta segura.\n\nA Febraban repete: banco não liga pedindo senha, código nem transferência. Desligue, espere alguns minutos e ligue você para o número que está atrás do cartão.\n\nSe o Pix já saiu, avise o banco na hora e peça o MED, o Mecanismo Especial de Devolução do Banco Central.\n\n#golpe #banco #podeissoedu",
+      "arquivo": "golpe-falsa-central.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/golpe-falsa-central.mp4"
+    },
+    {
+      "id": "instagram-comportamento-por-que-calma-irrita",
+      "rede": "instagram",
+      "canal": "comportamento",
+      "slug": "por-que-calma-irrita",
+      "quando": "2026-11-23T12:00:00-03:00",
+      "legenda": "Comente CALMA se essa palavra te irrita. Num estudo de Harvard, dizer \"estou animado\" funcionou melhor.\n\nOuvir \"calma\" no meio da raiva costuma soar como ordem e como se o sentimento não fosse válido. Além disso, o corpo agitado não desliga por comando.\n\nNos experimentos de Alison Wood Brooks (Harvard, 2014), quem reinterpretou a ansiedade como empolgação, dizendo \"estou animado\", teve desempenho melhor ao cantar, falar em público e fazer contas do que quem tentou se acalmar.\n\nNa conversa, reconhecer o que a pessoa sente ajuda mais do que mandar ter calma.\n\n#psicologia #emocoes #porqueagenteeassim",
+      "arquivo": "por-que-calma-irrita.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/por-que-calma-irrita.mp4"
+    },
+    {
+      "id": "instagram-consumidor-loja-cancelou-meu-pedido",
+      "rede": "instagram",
+      "canal": "consumidor",
+      "slug": "loja-cancelou-meu-pedido",
+      "quando": "2026-11-23T12:00:00-03:00",
+      "legenda": "Comente PEDIDO se uma loja já cancelou sua compra depois de pago. O art. 35 do CDC te dá 3 escolhas.\n\nSe a loja anunciou, vendeu e cobrou, a oferta obriga. Pelo artigo 35 do Código de Defesa do Consumidor, você escolhe: exigir o produto pelo preço anunciado, aceitar outro equivalente ou cancelar com o dinheiro de volta, corrigido, mais perdas e danos.\n\nA exceção que a Justiça costuma aceitar é o erro grosseiro de preço, aquele que qualquer pessoa percebe.\n\nGuarde o print do anúncio e o comprovante, e registre a reclamação no consumidor.gov.br.\n\n#direitodoconsumidor #compraonline #podeissoedu",
+      "arquivo": "loja-cancelou-meu-pedido.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/loja-cancelou-meu-pedido.mp4"
+    },
+    {
+      "id": "tiktok-comportamento-por-que-calma-irrita",
+      "rede": "tiktok",
+      "canal": "comportamento",
+      "slug": "por-que-calma-irrita",
+      "quando": "2026-11-23T12:00:00-03:00",
+      "legenda": "Comente CALMA se essa palavra te irrita. Num estudo de Harvard, dizer \"estou animado\" funcionou melhor.\n\nOuvir \"calma\" no meio da raiva costuma soar como ordem e como se o sentimento não fosse válido. Além disso, o corpo agitado não desliga por comando.\n\nNos experimentos de Alison Wood Brooks (Harvard, 2014), quem reinterpretou a ansiedade como empolgação, dizendo \"estou animado\", teve desempenho melhor ao cantar, falar em público e fazer contas do que quem tentou se acalmar.\n\nNa conversa, reconhecer o que a pessoa sente ajuda mais do que mandar ter calma.\n\n#psicologia #emocoes #porqueagenteeassim",
+      "arquivo": "por-que-calma-irrita.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/por-que-calma-irrita.mp4"
+    },
+    {
+      "id": "tiktok-consumidor-loja-cancelou-meu-pedido",
+      "rede": "tiktok",
+      "canal": "consumidor",
+      "slug": "loja-cancelou-meu-pedido",
+      "quando": "2026-11-23T12:00:00-03:00",
+      "legenda": "Comente PEDIDO se uma loja já cancelou sua compra depois de pago. O art. 35 do CDC te dá 3 escolhas.\n\nSe a loja anunciou, vendeu e cobrou, a oferta obriga. Pelo artigo 35 do Código de Defesa do Consumidor, você escolhe: exigir o produto pelo preço anunciado, aceitar outro equivalente ou cancelar com o dinheiro de volta, corrigido, mais perdas e danos.\n\nA exceção que a Justiça costuma aceitar é o erro grosseiro de preço, aquele que qualquer pessoa percebe.\n\nGuarde o print do anúncio e o comprovante, e registre a reclamação no consumidor.gov.br.\n\n#direitodoconsumidor #compraonline #podeissoedu",
+      "arquivo": "loja-cancelou-meu-pedido.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/loja-cancelou-meu-pedido.mp4"
+    },
+    {
+      "id": "instagram-comportamento-cara-vermelha-no-exercicio",
+      "rede": "instagram",
+      "canal": "comportamento",
+      "slug": "cara-vermelha-no-exercicio",
+      "quando": "2026-11-23T17:00:00-03:00",
+      "legenda": "Comente TOMATE se você fica vermelho no treino. É o corpo abrindo os vasos da pele para perder calor.\n\nO músculo em atividade produz muito calor. Para não superaquecer, o corpo dilata os vasos sanguíneos da pele e manda mais sangue para a superfície, onde o calor escapa. O rosto, com muitos vasos perto da pele, fica vermelho primeiro.\n\nO suor completa o trabalho: quando evapora, leva calor junto.\n\nVermelhidão sozinha costuma ser normal. Tontura, falta de ar, dor no peito ou mal-estar pedem para parar e procurar atendimento.\n\n#treino #corpohumano #porqueagenteeassim",
+      "arquivo": "cara-vermelha-no-exercicio.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cara-vermelha-no-exercicio.mp4"
+    },
+    {
+      "id": "instagram-consumidor-troca-de-presente-natal",
+      "rede": "instagram",
+      "canal": "consumidor",
+      "slug": "troca-de-presente-natal",
+      "quando": "2026-11-23T17:00:00-03:00",
+      "legenda": "Comente TROCA se vai trocar presente esse Natal. Na loja física, sem defeito, a troca só vale se a loja prometeu.\n\nNa loja física, sem defeito, a loja não é obrigada a trocar. Mas se prometeu, na etiqueta, no cartaz ou pelo vendedor, a promessa vira obrigação (art. 30 do CDC).\n\nNa compra pela internet, você tem 7 dias de arrependimento, sem precisar de defeito (art. 49). Com defeito, o prazo para reclamar é de 30 dias para não duráveis e 90 para duráveis (art. 26).\n\n#natal #direitodoconsumidor #podeissoedu",
+      "arquivo": "troca-de-presente-natal.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/troca-de-presente-natal.mp4"
+    },
+    {
+      "id": "tiktok-comportamento-cara-vermelha-no-exercicio",
+      "rede": "tiktok",
+      "canal": "comportamento",
+      "slug": "cara-vermelha-no-exercicio",
+      "quando": "2026-11-23T17:00:00-03:00",
+      "legenda": "Comente TOMATE se você fica vermelho no treino. É o corpo abrindo os vasos da pele para perder calor.\n\nO músculo em atividade produz muito calor. Para não superaquecer, o corpo dilata os vasos sanguíneos da pele e manda mais sangue para a superfície, onde o calor escapa. O rosto, com muitos vasos perto da pele, fica vermelho primeiro.\n\nO suor completa o trabalho: quando evapora, leva calor junto.\n\nVermelhidão sozinha costuma ser normal. Tontura, falta de ar, dor no peito ou mal-estar pedem para parar e procurar atendimento.\n\n#treino #corpohumano #porqueagenteeassim",
+      "arquivo": "cara-vermelha-no-exercicio.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cara-vermelha-no-exercicio.mp4"
+    },
+    {
+      "id": "tiktok-consumidor-troca-de-presente-natal",
+      "rede": "tiktok",
+      "canal": "consumidor",
+      "slug": "troca-de-presente-natal",
+      "quando": "2026-11-23T17:00:00-03:00",
+      "legenda": "Comente TROCA se vai trocar presente esse Natal. Na loja física, sem defeito, a troca só vale se a loja prometeu.\n\nNa loja física, sem defeito, a loja não é obrigada a trocar. Mas se prometeu, na etiqueta, no cartaz ou pelo vendedor, a promessa vira obrigação (art. 30 do CDC).\n\nNa compra pela internet, você tem 7 dias de arrependimento, sem precisar de defeito (art. 49). Com defeito, o prazo para reclamar é de 30 dias para não duráveis e 90 para duráveis (art. 26).\n\n#natal #direitodoconsumidor #podeissoedu",
+      "arquivo": "troca-de-presente-natal.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/troca-de-presente-natal.mp4"
+    },
+    {
+      "id": "instagram-comportamento-primeira-impressao-em-segundos",
+      "rede": "instagram",
+      "canal": "comportamento",
+      "slug": "primeira-impressao-em-segundos",
+      "quando": "2026-11-24T09:00:00-03:00",
+      "legenda": "Comente PRIMEIRA se já errou uma primeira impressão. Em um estudo, 0,1 segundo bastou para julgar um rosto.\n\nNos experimentos de Janine Willis e Alexander Todorov (Princeton, 2006), pessoas que viram um rosto por apenas um décimo de segundo já faziam julgamentos de confiança parecidos com os de quem olhou sem limite de tempo. Mais tempo aumentava a certeza, não mudava muito a opinião.\n\nUma explicação comum é que avaliar rápido se alguém é amigo ou ameaça foi útil na nossa história.\n\nEsses julgamentos rápidos erram bastante, por isso vale dar uma segunda chance.\n\n#psicologia #comportamento #porqueagenteeassim",
+      "arquivo": "primeira-impressao-em-segundos.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/primeira-impressao-em-segundos.mp4"
+    },
+    {
+      "id": "instagram-consumidor-golpe-falso-famoso",
+      "rede": "instagram",
+      "canal": "consumidor",
+      "slug": "golpe-falso-famoso",
+      "quando": "2026-11-24T09:00:00-03:00",
+      "legenda": "Comente FAMOSO se um perfil falso já te pediu Pix. Uma aposentada perdeu quase R$ 40 mil nesse golpe.\n\nNo golpe do falso famoso, um perfil se passa por artista ou bilionário, puxa conversa, às vezes finge romance, e pede dinheiro com uma desculpa: conta bloqueada, taxa, prêmio.\n\nEm novembro, uma aposentada de 69 anos perdeu quase R$ 40 mil achando que namorava um bilionário.\n\nSinais: perfil novo, pressa, segredo e pedido de Pix. Bloqueie e denuncie. Se já pagou, avise o banco na hora, peça o MED e registre boletim de ocorrência.\n\n#golpe #pix #podeissoedu",
+      "arquivo": "golpe-falso-famoso.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/golpe-falso-famoso.mp4"
+    },
+    {
+      "id": "tiktok-comportamento-primeira-impressao-em-segundos",
+      "rede": "tiktok",
+      "canal": "comportamento",
+      "slug": "primeira-impressao-em-segundos",
+      "quando": "2026-11-24T09:00:00-03:00",
+      "legenda": "Comente PRIMEIRA se já errou uma primeira impressão. Em um estudo, 0,1 segundo bastou para julgar um rosto.\n\nNos experimentos de Janine Willis e Alexander Todorov (Princeton, 2006), pessoas que viram um rosto por apenas um décimo de segundo já faziam julgamentos de confiança parecidos com os de quem olhou sem limite de tempo. Mais tempo aumentava a certeza, não mudava muito a opinião.\n\nUma explicação comum é que avaliar rápido se alguém é amigo ou ameaça foi útil na nossa história.\n\nEsses julgamentos rápidos erram bastante, por isso vale dar uma segunda chance.\n\n#psicologia #comportamento #porqueagenteeassim",
+      "arquivo": "primeira-impressao-em-segundos.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/primeira-impressao-em-segundos.mp4"
+    },
+    {
+      "id": "tiktok-consumidor-golpe-falso-famoso",
+      "rede": "tiktok",
+      "canal": "consumidor",
+      "slug": "golpe-falso-famoso",
+      "quando": "2026-11-24T09:00:00-03:00",
+      "legenda": "Comente FAMOSO se um perfil falso já te pediu Pix. Uma aposentada perdeu quase R$ 40 mil nesse golpe.\n\nNo golpe do falso famoso, um perfil se passa por artista ou bilionário, puxa conversa, às vezes finge romance, e pede dinheiro com uma desculpa: conta bloqueada, taxa, prêmio.\n\nEm novembro, uma aposentada de 69 anos perdeu quase R$ 40 mil achando que namorava um bilionário.\n\nSinais: perfil novo, pressa, segredo e pedido de Pix. Bloqueie e denuncie. Se já pagou, avise o banco na hora, peça o MED e registre boletim de ocorrência.\n\n#golpe #pix #podeissoedu",
+      "arquivo": "golpe-falso-famoso.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/golpe-falso-famoso.mp4"
+    },
+    {
+      "id": "instagram-comportamento-pele-de-galinha-no-frio",
+      "rede": "instagram",
+      "canal": "comportamento",
+      "slug": "pele-de-galinha-no-frio",
+      "quando": "2026-11-24T12:00:00-03:00",
+      "legenda": "Comente ARREPIO se vive esquecendo o casaco. O arrepio é herança dos bichos peludos: em nós, quase não aquece.\n\nO arrepio vem de músculos minúsculos ligados a cada pelo, os eretores do pelo. No frio, eles contraem e levantam o pelo.\n\nEm animais peludos, isso prende uma camada de ar perto da pele e ajuda a manter o calor. Em humanos, com pouco pelo, o reflexo ficou, mas aquece pouco.\n\nQuem aquece de verdade é o tremor: contrações rápidas dos músculos que geram calor.\n\n#corpohumano #frio #porqueagenteeassim",
+      "arquivo": "pele-de-galinha-no-frio.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/pele-de-galinha-no-frio.mp4"
+    },
+    {
+      "id": "instagram-consumidor-debito-automatico-sem-pedir",
+      "rede": "instagram",
+      "canal": "consumidor",
+      "slug": "debito-automatico-sem-pedir",
+      "quando": "2026-11-24T12:00:00-03:00",
+      "legenda": "Comente EXTRATO se já achou débito que não pediu. Cobrança indevida paga volta em dobro (art. 42 do CDC).\n\nDébito automático em conta precisa da autorização do cliente, e você pode cancelar quando quiser. Seguro, pacote ou assinatura que aparece sem pedido é cobrança indevida.\n\nPelo parágrafo único do artigo 42 do Código de Defesa do Consumidor, quem pagou cobrança indevida tem direito à devolução em dobro, com correção, salvo engano justificável.\n\nPeça o cancelamento ao banco, anote o protocolo e, se negarem, reclame no Banco Central e no Procon.\n\n#banco #direitodoconsumidor #podeissoedu",
+      "arquivo": "debito-automatico-sem-pedir.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/debito-automatico-sem-pedir.mp4"
+    },
+    {
+      "id": "tiktok-comportamento-pele-de-galinha-no-frio",
+      "rede": "tiktok",
+      "canal": "comportamento",
+      "slug": "pele-de-galinha-no-frio",
+      "quando": "2026-11-24T12:00:00-03:00",
+      "legenda": "Comente ARREPIO se vive esquecendo o casaco. O arrepio é herança dos bichos peludos: em nós, quase não aquece.\n\nO arrepio vem de músculos minúsculos ligados a cada pelo, os eretores do pelo. No frio, eles contraem e levantam o pelo.\n\nEm animais peludos, isso prende uma camada de ar perto da pele e ajuda a manter o calor. Em humanos, com pouco pelo, o reflexo ficou, mas aquece pouco.\n\nQuem aquece de verdade é o tremor: contrações rápidas dos músculos que geram calor.\n\n#corpohumano #frio #porqueagenteeassim",
+      "arquivo": "pele-de-galinha-no-frio.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/pele-de-galinha-no-frio.mp4"
+    },
+    {
+      "id": "tiktok-consumidor-debito-automatico-sem-pedir",
+      "rede": "tiktok",
+      "canal": "consumidor",
+      "slug": "debito-automatico-sem-pedir",
+      "quando": "2026-11-24T12:00:00-03:00",
+      "legenda": "Comente EXTRATO se já achou débito que não pediu. Cobrança indevida paga volta em dobro (art. 42 do CDC).\n\nDébito automático em conta precisa da autorização do cliente, e você pode cancelar quando quiser. Seguro, pacote ou assinatura que aparece sem pedido é cobrança indevida.\n\nPelo parágrafo único do artigo 42 do Código de Defesa do Consumidor, quem pagou cobrança indevida tem direito à devolução em dobro, com correção, salvo engano justificável.\n\nPeça o cancelamento ao banco, anote o protocolo e, se negarem, reclame no Banco Central e no Procon.\n\n#banco #direitodoconsumidor #podeissoedu",
+      "arquivo": "debito-automatico-sem-pedir.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/debito-automatico-sem-pedir.mp4"
+    },
+    {
+      "id": "instagram-comportamento-barriga-roncando",
+      "rede": "instagram",
+      "canal": "comportamento",
+      "slug": "barriga-roncando",
+      "quando": "2026-11-24T17:00:00-03:00",
+      "legenda": "Comente RONCO se sua barriga já roncou na hora errada. Vazio, o intestino faz uma faxina a cada ~90 minutos.\n\nO ronco da barriga se chama borborigmo: é o som de ar e líquido sendo empurrados pelas contrações do tubo digestivo.\n\nEle acontece também de barriga cheia, mas a comida abafa o som. Em jejum, o intestino faz ondas periódicas de limpeza, o complexo motor migratório, mais ou menos a cada 90 a 120 minutos, e o barulho fica mais alto.\n\nDor forte, inchaço constante ou mudança no intestino pedem avaliação médica.\n\n#corpohumano #fome #porqueagenteeassim",
+      "arquivo": "barriga-roncando.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/barriga-roncando.mp4"
+    },
+    {
+      "id": "instagram-consumidor-multa-para-cancelar-academia",
+      "rede": "instagram",
+      "canal": "consumidor",
+      "slug": "multa-para-cancelar-academia",
+      "quando": "2026-11-24T17:00:00-03:00",
+      "legenda": "Comente ACADEMIA se quer cancelar o plano. Multa de fidelidade precisa ser proporcional ao que falta, não o ano todo.\n\nMulta por fidelidade pode existir se estiver clara no contrato. Mas ela deve ser proporcional ao tempo que falta. Cobrar todos os meses restantes coloca o consumidor em desvantagem exagerada, o que o artigo 51 do Código de Defesa do Consumidor considera cláusula nula.\n\nPeça o cancelamento por escrito e guarde o protocolo. Sem acordo, procure o Procon ou o Juizado Especial Cível, que dispensa advogado em causas de até 20 salários mínimos.\n\n#academia #direitodoconsumidor #podeissoedu",
+      "arquivo": "multa-para-cancelar-academia.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/multa-para-cancelar-academia.mp4"
+    },
+    {
+      "id": "tiktok-comportamento-barriga-roncando",
+      "rede": "tiktok",
+      "canal": "comportamento",
+      "slug": "barriga-roncando",
+      "quando": "2026-11-24T17:00:00-03:00",
+      "legenda": "Comente RONCO se sua barriga já roncou na hora errada. Vazio, o intestino faz uma faxina a cada ~90 minutos.\n\nO ronco da barriga se chama borborigmo: é o som de ar e líquido sendo empurrados pelas contrações do tubo digestivo.\n\nEle acontece também de barriga cheia, mas a comida abafa o som. Em jejum, o intestino faz ondas periódicas de limpeza, o complexo motor migratório, mais ou menos a cada 90 a 120 minutos, e o barulho fica mais alto.\n\nDor forte, inchaço constante ou mudança no intestino pedem avaliação médica.\n\n#corpohumano #fome #porqueagenteeassim",
+      "arquivo": "barriga-roncando.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/barriga-roncando.mp4"
+    },
+    {
+      "id": "tiktok-consumidor-multa-para-cancelar-academia",
+      "rede": "tiktok",
+      "canal": "consumidor",
+      "slug": "multa-para-cancelar-academia",
+      "quando": "2026-11-24T17:00:00-03:00",
+      "legenda": "Comente ACADEMIA se quer cancelar o plano. Multa de fidelidade precisa ser proporcional ao que falta, não o ano todo.\n\nMulta por fidelidade pode existir se estiver clara no contrato. Mas ela deve ser proporcional ao tempo que falta. Cobrar todos os meses restantes coloca o consumidor em desvantagem exagerada, o que o artigo 51 do Código de Defesa do Consumidor considera cláusula nula.\n\nPeça o cancelamento por escrito e guarde o protocolo. Sem acordo, procure o Procon ou o Juizado Especial Cível, que dispensa advogado em causas de até 20 salários mínimos.\n\n#academia #direitodoconsumidor #podeissoedu",
+      "arquivo": "multa-para-cancelar-academia.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/multa-para-cancelar-academia.mp4"
+    },
+    {
+      "id": "instagram-comportamento-risada-de-nervoso",
+      "rede": "instagram",
+      "canal": "comportamento",
+      "slug": "risada-de-nervoso",
+      "quando": "2026-11-25T09:00:00-03:00",
+      "legenda": "Comente RISO se já riu de nervoso na hora errada. Quem chora de alegria tende a rir de tensão, diz estudo.\n\nRir de nervoso é comum. Num estudo de Oriana Aragón e colegas (Yale, 2015), pessoas que choram de alegria também tendiam a mostrar outras expressões \"trocadas\", como rir em situações tensas.\n\nA hipótese dos autores é que a expressão oposta ajuda a regular uma emoção forte demais, trazendo o corpo de volta ao equilíbrio.\n\nRir de nervoso não significa falta de empatia.\n\n#psicologia #emocoes #porqueagenteeassim",
+      "arquivo": "risada-de-nervoso.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/risada-de-nervoso.mp4"
+    },
+    {
+      "id": "instagram-consumidor-produto-diferente-do-anuncio",
+      "rede": "instagram",
+      "canal": "consumidor",
+      "slug": "produto-diferente-do-anuncio",
+      "quando": "2026-11-25T09:00:00-03:00",
+      "legenda": "Comente ANÚNCIO se já te mandaram coisa diferente. Produto diferente do anúncio é vício, art. 18 do CDC.\n\nQuando o produto chega diferente do que o anúncio mostrava, é vício por disparidade com a mensagem publicitária (art. 18 do Código de Defesa do Consumidor). Você pode exigir o produto certo.\n\nNa compra pela internet, ainda vale o direito de arrependimento de 7 dias (art. 49), com o frete de volta por conta da loja.\n\nFotografe caixa, etiqueta e anúncio, abra a reclamação e guarde o protocolo.\n\n#compraonline #direitodoconsumidor #podeissoedu",
+      "arquivo": "produto-diferente-do-anuncio.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/produto-diferente-do-anuncio.mp4"
+    },
+    {
+      "id": "tiktok-comportamento-risada-de-nervoso",
+      "rede": "tiktok",
+      "canal": "comportamento",
+      "slug": "risada-de-nervoso",
+      "quando": "2026-11-25T09:00:00-03:00",
+      "legenda": "Comente RISO se já riu de nervoso na hora errada. Quem chora de alegria tende a rir de tensão, diz estudo.\n\nRir de nervoso é comum. Num estudo de Oriana Aragón e colegas (Yale, 2015), pessoas que choram de alegria também tendiam a mostrar outras expressões \"trocadas\", como rir em situações tensas.\n\nA hipótese dos autores é que a expressão oposta ajuda a regular uma emoção forte demais, trazendo o corpo de volta ao equilíbrio.\n\nRir de nervoso não significa falta de empatia.\n\n#psicologia #emocoes #porqueagenteeassim",
+      "arquivo": "risada-de-nervoso.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/risada-de-nervoso.mp4"
+    },
+    {
+      "id": "tiktok-consumidor-produto-diferente-do-anuncio",
+      "rede": "tiktok",
+      "canal": "consumidor",
+      "slug": "produto-diferente-do-anuncio",
+      "quando": "2026-11-25T09:00:00-03:00",
+      "legenda": "Comente ANÚNCIO se já te mandaram coisa diferente. Produto diferente do anúncio é vício, art. 18 do CDC.\n\nQuando o produto chega diferente do que o anúncio mostrava, é vício por disparidade com a mensagem publicitária (art. 18 do Código de Defesa do Consumidor). Você pode exigir o produto certo.\n\nNa compra pela internet, ainda vale o direito de arrependimento de 7 dias (art. 49), com o frete de volta por conta da loja.\n\nFotografe caixa, etiqueta e anúncio, abra a reclamação e guarde o protocolo.\n\n#compraonline #direitodoconsumidor #podeissoedu",
+      "arquivo": "produto-diferente-do-anuncio.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/produto-diferente-do-anuncio.mp4"
+    },
+    {
+      "id": "instagram-comportamento-balancar-com-a-musica",
+      "rede": "instagram",
+      "canal": "comportamento",
+      "slug": "balancar-com-a-musica",
+      "quando": "2026-11-25T12:00:00-03:00",
+      "legenda": "Comente DANÇA se seu pé bate sozinho no ritmo. Só de ouvir música, as áreas motoras do cérebro acendem.\n\nOuvir uma batida ativa áreas do cérebro ligadas ao movimento, mesmo quando a pessoa está parada, como mostrou o estudo de Jessica Grahn e Matthew Brett (2007) com ressonância.\n\nPesquisas sobre groove sugerem que ritmos com alguma surpresa, nem simples demais nem complexos demais, são os que mais dão vontade de mexer o corpo.\n\nO cérebro tenta prever a próxima batida, e o corpo acompanha.\n\n#musica #cerebro #porqueagenteeassim",
+      "arquivo": "balancar-com-a-musica.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/balancar-com-a-musica.mp4"
+    },
+    {
+      "id": "instagram-consumidor-recall-de-carro-gratis",
+      "rede": "instagram",
+      "canal": "consumidor",
+      "slug": "recall-de-carro-gratis",
+      "quando": "2026-11-25T12:00:00-03:00",
+      "legenda": "Comente RECALL se nunca pesquisou a placa do seu carro. Recall é grátis, mesmo com a garantia vencida.\n\nRecall é o chamado da montadora para consertar um defeito que pode ser perigoso. O serviço é gratuito e não depende da garantia nem da idade do carro.\n\nO artigo 10 do Código de Defesa do Consumidor obriga o fornecedor a comunicar o risco e a corrigir o problema.\n\nConsulte a placa ou o chassi no portal de recalls do governo e agende numa concessionária da marca.\n\n#carro #recall #podeissoedu",
+      "arquivo": "recall-de-carro-gratis.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/recall-de-carro-gratis.mp4"
+    },
+    {
+      "id": "tiktok-comportamento-balancar-com-a-musica",
+      "rede": "tiktok",
+      "canal": "comportamento",
+      "slug": "balancar-com-a-musica",
+      "quando": "2026-11-25T12:00:00-03:00",
+      "legenda": "Comente DANÇA se seu pé bate sozinho no ritmo. Só de ouvir música, as áreas motoras do cérebro acendem.\n\nOuvir uma batida ativa áreas do cérebro ligadas ao movimento, mesmo quando a pessoa está parada, como mostrou o estudo de Jessica Grahn e Matthew Brett (2007) com ressonância.\n\nPesquisas sobre groove sugerem que ritmos com alguma surpresa, nem simples demais nem complexos demais, são os que mais dão vontade de mexer o corpo.\n\nO cérebro tenta prever a próxima batida, e o corpo acompanha.\n\n#musica #cerebro #porqueagenteeassim",
+      "arquivo": "balancar-com-a-musica.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/balancar-com-a-musica.mp4"
+    },
+    {
+      "id": "tiktok-consumidor-recall-de-carro-gratis",
+      "rede": "tiktok",
+      "canal": "consumidor",
+      "slug": "recall-de-carro-gratis",
+      "quando": "2026-11-25T12:00:00-03:00",
+      "legenda": "Comente RECALL se nunca pesquisou a placa do seu carro. Recall é grátis, mesmo com a garantia vencida.\n\nRecall é o chamado da montadora para consertar um defeito que pode ser perigoso. O serviço é gratuito e não depende da garantia nem da idade do carro.\n\nO artigo 10 do Código de Defesa do Consumidor obriga o fornecedor a comunicar o risco e a corrigir o problema.\n\nConsulte a placa ou o chassi no portal de recalls do governo e agende numa concessionária da marca.\n\n#carro #recall #podeissoedu",
+      "arquivo": "recall-de-carro-gratis.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/recall-de-carro-gratis.mp4"
+    },
+    {
+      "id": "instagram-comportamento-aplauso-contagioso",
+      "rede": "instagram",
+      "canal": "comportamento",
+      "slug": "aplauso-contagioso",
+      "quando": "2026-11-25T17:00:00-03:00",
+      "legenda": "Comente PALMA se você aplaude só porque todo mundo aplaude. Num estudo, o aplauso se espalhou como contágio.\n\nRichard Mann e colegas (2013) filmaram plateias de apresentações e viram que o aplauso se espalha como contágio social: a chance de alguém começar ou parar de aplaudir dependia mais de quantos já estavam aplaudindo do que do que estava sendo apresentado.\n\nPor isso a duração das palmas pode variar muito entre plateias que viram a mesma apresentação.\n\nO gráfico do vídeo é uma ilustração, não os dados do artigo.\n\n#psicologia #comportamento #porqueagenteeassim",
+      "arquivo": "aplauso-contagioso.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/aplauso-contagioso.mp4"
+    },
+    {
+      "id": "instagram-consumidor-trocar-remedio-por-generico",
+      "rede": "instagram",
+      "canal": "consumidor",
+      "slug": "trocar-remedio-por-generico",
+      "quando": "2026-11-25T17:00:00-03:00",
+      "legenda": "Comente GENÉRICO se sempre pede o mais barato. O genérico custa pelo menos 35% menos que o de referência.\n\nA Lei 9.787/1999 permite que o farmacêutico troque o remédio de referência da receita pelo genérico correspondente, a menos que o médico tenha escrito que não pode trocar.\n\nO genérico tem o mesmo princípio ativo, dose e forma, e passa por testes de bioequivalência na Anvisa. Pela regra de preços, ele custa pelo menos 35% menos que o de referência.\n\nO similar não entra nessa troca automática.\n\n#farmacia #generico #podeissoedu",
+      "arquivo": "trocar-remedio-por-generico.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/trocar-remedio-por-generico.mp4"
+    },
+    {
+      "id": "tiktok-comportamento-aplauso-contagioso",
+      "rede": "tiktok",
+      "canal": "comportamento",
+      "slug": "aplauso-contagioso",
+      "quando": "2026-11-25T17:00:00-03:00",
+      "legenda": "Comente PALMA se você aplaude só porque todo mundo aplaude. Num estudo, o aplauso se espalhou como contágio.\n\nRichard Mann e colegas (2013) filmaram plateias de apresentações e viram que o aplauso se espalha como contágio social: a chance de alguém começar ou parar de aplaudir dependia mais de quantos já estavam aplaudindo do que do que estava sendo apresentado.\n\nPor isso a duração das palmas pode variar muito entre plateias que viram a mesma apresentação.\n\nO gráfico do vídeo é uma ilustração, não os dados do artigo.\n\n#psicologia #comportamento #porqueagenteeassim",
+      "arquivo": "aplauso-contagioso.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/aplauso-contagioso.mp4"
+    },
+    {
+      "id": "tiktok-consumidor-trocar-remedio-por-generico",
+      "rede": "tiktok",
+      "canal": "consumidor",
+      "slug": "trocar-remedio-por-generico",
+      "quando": "2026-11-25T17:00:00-03:00",
+      "legenda": "Comente GENÉRICO se sempre pede o mais barato. O genérico custa pelo menos 35% menos que o de referência.\n\nA Lei 9.787/1999 permite que o farmacêutico troque o remédio de referência da receita pelo genérico correspondente, a menos que o médico tenha escrito que não pode trocar.\n\nO genérico tem o mesmo princípio ativo, dose e forma, e passa por testes de bioequivalência na Anvisa. Pela regra de preços, ele custa pelo menos 35% menos que o de referência.\n\nO similar não entra nessa troca automática.\n\n#farmacia #generico #podeissoedu",
+      "arquivo": "trocar-remedio-por-generico.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/trocar-remedio-por-generico.mp4"
+    },
+    {
+      "id": "instagram-comportamento-falar-alto-com-fone",
+      "rede": "instagram",
+      "canal": "comportamento",
+      "slug": "falar-alto-com-fone",
+      "quando": "2026-11-26T09:00:00-03:00",
+      "legenda": "Comente FONE se já te pediram pra falar mais baixo. É o efeito Lombard, descrito em 1911.\n\nQuando você fala, ouve a própria voz e ajusta o volume sem pensar. Com fone, esse retorno diminui, e a tendência é falar mais alto.\n\nCom barulho em volta, entra o efeito Lombard, descrito pelo médico francês Étienne Lombard em 1911: falamos mais alto em ambiente ruidoso, sem perceber. O efeito aparece também em vários animais, como aves.\n\nTirar um lado do fone ajuda a ouvir a própria voz.\n\n#curiosidades #comportamento #porqueagenteeassim",
+      "arquivo": "falar-alto-com-fone.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/falar-alto-com-fone.mp4"
+    },
+    {
+      "id": "instagram-consumidor-overbooking-no-voo",
+      "rede": "instagram",
+      "canal": "consumidor",
+      "slug": "overbooking-no-voo",
+      "quando": "2026-11-26T09:00:00-03:00",
+      "legenda": "Comente VOO se já ficou de fora por overbooking. A compensação é de 250 DES em voo nacional, paga na hora.\n\nOverbooking é quando a companhia vende mais lugares do que o avião tem. Se você é impedido de embarcar contra a sua vontade, a ANAC chama isso de preterição.\n\nPela Resolução 400/2016, a companhia deve pagar compensação imediata de 250 DES em voo nacional e 500 DES em internacional, além de oferecer reacomodação, reembolso ou outro meio de transporte, e assistência como alimentação.\n\nQuem aceita ceder o lugar por vontade própria negocia a compensação com a empresa.\n\n#viagem #aviao #podeissoedu",
+      "arquivo": "overbooking-no-voo.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/overbooking-no-voo.mp4"
+    },
+    {
+      "id": "tiktok-comportamento-falar-alto-com-fone",
+      "rede": "tiktok",
+      "canal": "comportamento",
+      "slug": "falar-alto-com-fone",
+      "quando": "2026-11-26T09:00:00-03:00",
+      "legenda": "Comente FONE se já te pediram pra falar mais baixo. É o efeito Lombard, descrito em 1911.\n\nQuando você fala, ouve a própria voz e ajusta o volume sem pensar. Com fone, esse retorno diminui, e a tendência é falar mais alto.\n\nCom barulho em volta, entra o efeito Lombard, descrito pelo médico francês Étienne Lombard em 1911: falamos mais alto em ambiente ruidoso, sem perceber. O efeito aparece também em vários animais, como aves.\n\nTirar um lado do fone ajuda a ouvir a própria voz.\n\n#curiosidades #comportamento #porqueagenteeassim",
+      "arquivo": "falar-alto-com-fone.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/falar-alto-com-fone.mp4"
+    },
+    {
+      "id": "tiktok-consumidor-overbooking-no-voo",
+      "rede": "tiktok",
+      "canal": "consumidor",
+      "slug": "overbooking-no-voo",
+      "quando": "2026-11-26T09:00:00-03:00",
+      "legenda": "Comente VOO se já ficou de fora por overbooking. A compensação é de 250 DES em voo nacional, paga na hora.\n\nOverbooking é quando a companhia vende mais lugares do que o avião tem. Se você é impedido de embarcar contra a sua vontade, a ANAC chama isso de preterição.\n\nPela Resolução 400/2016, a companhia deve pagar compensação imediata de 250 DES em voo nacional e 500 DES em internacional, além de oferecer reacomodação, reembolso ou outro meio de transporte, e assistência como alimentação.\n\nQuem aceita ceder o lugar por vontade própria negocia a compensação com a empresa.\n\n#viagem #aviao #podeissoedu",
+      "arquivo": "overbooking-no-voo.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/overbooking-no-voo.mp4"
+    },
+    {
+      "id": "instagram-comportamento-relogio-parece-parado",
+      "rede": "instagram",
+      "canal": "comportamento",
+      "slug": "relogio-parece-parado",
+      "quando": "2026-11-26T12:00:00-03:00",
+      "legenda": "Comente PAROU se o ponteiro parece parar quando você olha. O 1º segundo pode parecer até meio segundo maior.\n\nÉ a cronostase. Quando o olho salta para o relógio, a visão fica borrada por um instante. O cérebro apaga esse trecho e o preenche com a primeira imagem que vê depois, o ponteiro parado.\n\nResultado: o primeiro segundo parece mais longo. No estudo de Kielan Yarrow e colegas (2001), publicado na Nature, a ilusão chegou a cerca de meio segundo, dependendo do tamanho do movimento do olho.\n\n#cerebro #ilusao #porqueagenteeassim",
+      "arquivo": "relogio-parece-parado.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/relogio-parece-parado.mp4"
+    },
+    {
+      "id": "instagram-consumidor-delivery-veio-errado",
+      "rede": "instagram",
+      "canal": "consumidor",
+      "slug": "delivery-veio-errado",
+      "quando": "2026-11-26T12:00:00-03:00",
+      "legenda": "Comente PIZZA se seu delivery já veio errado. App e restaurante respondem juntos (art. 7º do CDC).\n\nQuando o pedido chega errado, o restaurante e o aplicativo não podem ficar empurrando um para o outro. Quem participa da cadeia de consumo responde junto pela reparação (art. 7º, parágrafo único, e art. 25 do Código de Defesa do Consumidor).\n\nFotografe o pedido, abra a reclamação no app e peça para refazer ou reembolsar. Se negarem, guarde o protocolo e procure o Procon.\n\n#delivery #direitodoconsumidor #podeissoedu",
+      "arquivo": "delivery-veio-errado.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/delivery-veio-errado.mp4"
+    },
+    {
+      "id": "tiktok-comportamento-relogio-parece-parado",
+      "rede": "tiktok",
+      "canal": "comportamento",
+      "slug": "relogio-parece-parado",
+      "quando": "2026-11-26T12:00:00-03:00",
+      "legenda": "Comente PAROU se o ponteiro parece parar quando você olha. O 1º segundo pode parecer até meio segundo maior.\n\nÉ a cronostase. Quando o olho salta para o relógio, a visão fica borrada por um instante. O cérebro apaga esse trecho e o preenche com a primeira imagem que vê depois, o ponteiro parado.\n\nResultado: o primeiro segundo parece mais longo. No estudo de Kielan Yarrow e colegas (2001), publicado na Nature, a ilusão chegou a cerca de meio segundo, dependendo do tamanho do movimento do olho.\n\n#cerebro #ilusao #porqueagenteeassim",
+      "arquivo": "relogio-parece-parado.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/relogio-parece-parado.mp4"
+    },
+    {
+      "id": "tiktok-consumidor-delivery-veio-errado",
+      "rede": "tiktok",
+      "canal": "consumidor",
+      "slug": "delivery-veio-errado",
+      "quando": "2026-11-26T12:00:00-03:00",
+      "legenda": "Comente PIZZA se seu delivery já veio errado. App e restaurante respondem juntos (art. 7º do CDC).\n\nQuando o pedido chega errado, o restaurante e o aplicativo não podem ficar empurrando um para o outro. Quem participa da cadeia de consumo responde junto pela reparação (art. 7º, parágrafo único, e art. 25 do Código de Defesa do Consumidor).\n\nFotografe o pedido, abra a reclamação no app e peça para refazer ou reembolsar. Se negarem, guarde o protocolo e procure o Procon.\n\n#delivery #direitodoconsumidor #podeissoedu",
+      "arquivo": "delivery-veio-errado.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/delivery-veio-errado.mp4"
+    },
+    {
+      "id": "instagram-comportamento-cruzar-os-bracos",
+      "rede": "instagram",
+      "canal": "comportamento",
+      "slug": "cruzar-os-bracos",
+      "quando": "2026-11-26T17:00:00-03:00",
+      "legenda": "Comente BRAÇOS se cruza os braços sem perceber. Num estudo, quem cruzou insistiu quase o dobro do tempo.\n\nCruzar os braços nem sempre é defesa: frio, conforto e hábito são motivos comuns, e a linguagem corporal sozinha engana sem contexto.\n\nNum experimento de Ronald Friedman e Andrew Elliot (2008), participantes com os braços cruzados persistiram por bem mais tempo em anagramas difíceis do que os de braços soltos, e acertaram mais.\n\nO vídeo arredonda o efeito para \"quase o dobro do tempo\".\n\n#linguagemcorporal #psicologia #porqueagenteeassim",
+      "arquivo": "cruzar-os-bracos.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cruzar-os-bracos.mp4"
+    },
+    {
+      "id": "instagram-consumidor-plano-de-saude-negou-urgencia",
+      "rede": "instagram",
+      "canal": "consumidor",
+      "slug": "plano-de-saude-negou-urgencia",
+      "quando": "2026-11-26T17:00:00-03:00",
+      "legenda": "Comente URGÊNCIA se o plano já te negou atendimento. Para urgência e emergência, a carência máxima é de 24 horas.\n\nA Lei 9.656/1998 (art. 12, V, c) fixa em 24 horas o prazo máximo de carência para casos de urgência e emergência. As carências mais longas valem para consultas, exames e procedimentos eletivos.\n\nSe o plano negar, peça o protocolo e registre reclamação na ANS, pelo site ou pelo 0800 da agência.\n\nEste vídeo explica a regra geral. Para o seu contrato, confirme com a ANS ou um advogado.\n\n#planodesaude #saude #podeissoedu",
+      "arquivo": "plano-de-saude-negou-urgencia.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/plano-de-saude-negou-urgencia.mp4"
+    },
+    {
+      "id": "tiktok-comportamento-cruzar-os-bracos",
+      "rede": "tiktok",
+      "canal": "comportamento",
+      "slug": "cruzar-os-bracos",
+      "quando": "2026-11-26T17:00:00-03:00",
+      "legenda": "Comente BRAÇOS se cruza os braços sem perceber. Num estudo, quem cruzou insistiu quase o dobro do tempo.\n\nCruzar os braços nem sempre é defesa: frio, conforto e hábito são motivos comuns, e a linguagem corporal sozinha engana sem contexto.\n\nNum experimento de Ronald Friedman e Andrew Elliot (2008), participantes com os braços cruzados persistiram por bem mais tempo em anagramas difíceis do que os de braços soltos, e acertaram mais.\n\nO vídeo arredonda o efeito para \"quase o dobro do tempo\".\n\n#linguagemcorporal #psicologia #porqueagenteeassim",
+      "arquivo": "cruzar-os-bracos.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cruzar-os-bracos.mp4"
+    },
+    {
+      "id": "tiktok-consumidor-plano-de-saude-negou-urgencia",
+      "rede": "tiktok",
+      "canal": "consumidor",
+      "slug": "plano-de-saude-negou-urgencia",
+      "quando": "2026-11-26T17:00:00-03:00",
+      "legenda": "Comente URGÊNCIA se o plano já te negou atendimento. Para urgência e emergência, a carência máxima é de 24 horas.\n\nA Lei 9.656/1998 (art. 12, V, c) fixa em 24 horas o prazo máximo de carência para casos de urgência e emergência. As carências mais longas valem para consultas, exames e procedimentos eletivos.\n\nSe o plano negar, peça o protocolo e registre reclamação na ANS, pelo site ou pelo 0800 da agência.\n\nEste vídeo explica a regra geral. Para o seu contrato, confirme com a ANS ou um advogado.\n\n#planodesaude #saude #podeissoedu",
+      "arquivo": "plano-de-saude-negou-urgencia.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/plano-de-saude-negou-urgencia.mp4"
+    },
+    {
+      "id": "instagram-comportamento-fome-emocional",
+      "rede": "instagram",
+      "canal": "comportamento",
+      "slug": "fome-emocional",
+      "quando": "2026-11-27T09:00:00-03:00",
+      "legenda": "Comente CARRINHO se o estresse enche o seu. Num estudo, quem soltou mais cortisol comeu mais doce depois.\n\nEm situações de estresse, o corpo libera cortisol, hormônio ligado ao aumento do apetite. No estudo de Elissa Epel e colegas (2001), mulheres que liberaram mais cortisol num teste estressante comeram mais, principalmente doces, logo depois.\n\nComidas doces e gordurosas dão um alívio rápido, mas passageiro.\n\nCaminhar, beber água e ir ao mercado com lista ajudam. Se comer por ansiedade virou rotina, procure um profissional de saúde.\n\n#ansiedade #alimentacao #porqueagenteeassim",
+      "arquivo": "fome-emocional.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/fome-emocional.mp4"
+    },
+    {
+      "id": "instagram-consumidor-troco-em-bala",
+      "rede": "instagram",
+      "canal": "consumidor",
+      "slug": "troco-em-bala",
+      "quando": "2026-11-27T09:00:00-03:00",
+      "legenda": "Comente BALA se já recebeu troco em bala. Para o Procon, empurrar produto no lugar do troco é prática abusiva.\n\nTroco é dinheiro. Dar bala, chiclete ou outro produto no lugar do troco empurra uma compra que você não pediu, e os Procons tratam isso como prática abusiva (art. 39 do Código de Defesa do Consumidor).\n\nA falta de moeda é problema do estabelecimento: ele pode arredondar o valor a seu favor.\n\nA conta do vídeo é um exemplo: 15 centavos para 300 clientes por dia dão R$ 1.350 em 30 dias.\n\n#procon #direitodoconsumidor #podeissoedu",
+      "arquivo": "troco-em-bala.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/troco-em-bala.mp4"
+    },
+    {
+      "id": "tiktok-comportamento-fome-emocional",
+      "rede": "tiktok",
+      "canal": "comportamento",
+      "slug": "fome-emocional",
+      "quando": "2026-11-27T09:00:00-03:00",
+      "legenda": "Comente CARRINHO se o estresse enche o seu. Num estudo, quem soltou mais cortisol comeu mais doce depois.\n\nEm situações de estresse, o corpo libera cortisol, hormônio ligado ao aumento do apetite. No estudo de Elissa Epel e colegas (2001), mulheres que liberaram mais cortisol num teste estressante comeram mais, principalmente doces, logo depois.\n\nComidas doces e gordurosas dão um alívio rápido, mas passageiro.\n\nCaminhar, beber água e ir ao mercado com lista ajudam. Se comer por ansiedade virou rotina, procure um profissional de saúde.\n\n#ansiedade #alimentacao #porqueagenteeassim",
+      "arquivo": "fome-emocional.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/fome-emocional.mp4"
+    },
+    {
+      "id": "tiktok-consumidor-troco-em-bala",
+      "rede": "tiktok",
+      "canal": "consumidor",
+      "slug": "troco-em-bala",
+      "quando": "2026-11-27T09:00:00-03:00",
+      "legenda": "Comente BALA se já recebeu troco em bala. Para o Procon, empurrar produto no lugar do troco é prática abusiva.\n\nTroco é dinheiro. Dar bala, chiclete ou outro produto no lugar do troco empurra uma compra que você não pediu, e os Procons tratam isso como prática abusiva (art. 39 do Código de Defesa do Consumidor).\n\nA falta de moeda é problema do estabelecimento: ele pode arredondar o valor a seu favor.\n\nA conta do vídeo é um exemplo: 15 centavos para 300 clientes por dia dão R$ 1.350 em 30 dias.\n\n#procon #direitodoconsumidor #podeissoedu",
+      "arquivo": "troco-em-bala.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/troco-em-bala.mp4"
+    },
+    {
+      "id": "instagram-comportamento-acordar-mais-cansado",
+      "rede": "instagram",
+      "canal": "comportamento",
+      "slug": "acordar-mais-cansado",
+      "quando": "2026-11-27T12:00:00-03:00",
+      "legenda": "Comente SONO se acorda cansado depois de dormir muito. A inércia do sono dura de 15 a 30 minutos.\n\nA sensação de acordar grogue se chama inércia do sono. Ela é mais forte quando você acorda no meio do sono profundo e costuma durar de 15 a 30 minutos, às vezes mais.\n\nDormir muito além do habitual, em horário diferente, também desalinha o relógio biológico.\n\nManter horários parecidos, pegar luz do dia ao acordar e se mexer ajudam. Cansaço constante merece conversa com um médico.\n\n#sono #saude #porqueagenteeassim",
+      "arquivo": "acordar-mais-cansado.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/acordar-mais-cansado.mp4"
+    },
+    {
+      "id": "instagram-consumidor-cartao-clonado-estorno",
+      "rede": "instagram",
+      "canal": "consumidor",
+      "slug": "cartao-clonado-estorno",
+      "quando": "2026-11-27T12:00:00-03:00",
+      "legenda": "Comente CARTÃO se já clonaram o seu. Pela Súmula 479 do STJ, o banco responde pela fraude de terceiros.\n\nPela Súmula 479 do Superior Tribunal de Justiça, os bancos respondem objetivamente pelos danos de fraudes praticadas por terceiros, como compras com cartão clonado.\n\nBloqueie o cartão, conteste cada compra e anote os protocolos. Se o banco negar o estorno, reclame no Banco Central e no Procon, e considere o Juizado Especial.\n\nSe você entregou senha ou código a alguém, a análise pode mudar.\n\n#cartao #banco #podeissoedu",
+      "arquivo": "cartao-clonado-estorno.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cartao-clonado-estorno.mp4"
+    },
+    {
+      "id": "tiktok-comportamento-acordar-mais-cansado",
+      "rede": "tiktok",
+      "canal": "comportamento",
+      "slug": "acordar-mais-cansado",
+      "quando": "2026-11-27T12:00:00-03:00",
+      "legenda": "Comente SONO se acorda cansado depois de dormir muito. A inércia do sono dura de 15 a 30 minutos.\n\nA sensação de acordar grogue se chama inércia do sono. Ela é mais forte quando você acorda no meio do sono profundo e costuma durar de 15 a 30 minutos, às vezes mais.\n\nDormir muito além do habitual, em horário diferente, também desalinha o relógio biológico.\n\nManter horários parecidos, pegar luz do dia ao acordar e se mexer ajudam. Cansaço constante merece conversa com um médico.\n\n#sono #saude #porqueagenteeassim",
+      "arquivo": "acordar-mais-cansado.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/acordar-mais-cansado.mp4"
+    },
+    {
+      "id": "tiktok-consumidor-cartao-clonado-estorno",
+      "rede": "tiktok",
+      "canal": "consumidor",
+      "slug": "cartao-clonado-estorno",
+      "quando": "2026-11-27T12:00:00-03:00",
+      "legenda": "Comente CARTÃO se já clonaram o seu. Pela Súmula 479 do STJ, o banco responde pela fraude de terceiros.\n\nPela Súmula 479 do Superior Tribunal de Justiça, os bancos respondem objetivamente pelos danos de fraudes praticadas por terceiros, como compras com cartão clonado.\n\nBloqueie o cartão, conteste cada compra e anote os protocolos. Se o banco negar o estorno, reclame no Banco Central e no Procon, e considere o Juizado Especial.\n\nSe você entregou senha ou código a alguém, a análise pode mudar.\n\n#cartao #banco #podeissoedu",
+      "arquivo": "cartao-clonado-estorno.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cartao-clonado-estorno.mp4"
+    },
+    {
+      "id": "instagram-comportamento-cheiro-de-chuva",
+      "rede": "instagram",
+      "canal": "comportamento",
+      "slug": "cheiro-de-chuva",
+      "quando": "2026-11-27T17:00:00-03:00",
+      "legenda": "Comente CHUVA se ama esse cheiro. O nariz humano sente a geosmina em cerca de 5 partes por trilhão.\n\nO cheiro de terra molhada se chama petricor, nome criado em 1964 pelos pesquisadores Isabel Bear e Richard Thomas. Um dos principais responsáveis é a geosmina, produzida por bactérias do solo.\n\nExperimentos do MIT (2015) mostraram que gotas de chuva, ao bater no chão, lançam aerossóis que levam esses aromas para o ar.\n\nO nariz humano detecta geosmina em concentrações baixíssimas, na casa de 5 partes por trilhão.\n\n#chuva #curiosidades #porqueagenteeassim",
+      "arquivo": "cheiro-de-chuva.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cheiro-de-chuva.mp4"
+    },
+    {
+      "id": "instagram-consumidor-assistencia-perdeu-meu-celular",
+      "rede": "instagram",
+      "canal": "consumidor",
+      "slug": "assistencia-perdeu-meu-celular",
+      "quando": "2026-11-27T17:00:00-03:00",
+      "legenda": "Comente CELULAR se uma loja já perdeu algo seu. Aviso de \"não nos responsabilizamos\" não vale.\n\nA assistência técnica que recebe o aparelho fica responsável por ele. Pelo artigo 14 do Código de Defesa do Consumidor, o prestador de serviço responde pelos danos, independentemente de culpa.\n\nPlaca de \"não nos responsabilizamos por objetos deixados\" não afasta essa responsabilidade (art. 25 e 51).\n\nGuarde a ordem de serviço. Peça um aparelho equivalente ou o valor dele. Sem acordo, Procon ou Juizado Especial Cível.\n\n#celular #direitodoconsumidor #podeissoedu",
+      "arquivo": "assistencia-perdeu-meu-celular.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/assistencia-perdeu-meu-celular.mp4"
+    },
+    {
+      "id": "tiktok-comportamento-cheiro-de-chuva",
+      "rede": "tiktok",
+      "canal": "comportamento",
+      "slug": "cheiro-de-chuva",
+      "quando": "2026-11-27T17:00:00-03:00",
+      "legenda": "Comente CHUVA se ama esse cheiro. O nariz humano sente a geosmina em cerca de 5 partes por trilhão.\n\nO cheiro de terra molhada se chama petricor, nome criado em 1964 pelos pesquisadores Isabel Bear e Richard Thomas. Um dos principais responsáveis é a geosmina, produzida por bactérias do solo.\n\nExperimentos do MIT (2015) mostraram que gotas de chuva, ao bater no chão, lançam aerossóis que levam esses aromas para o ar.\n\nO nariz humano detecta geosmina em concentrações baixíssimas, na casa de 5 partes por trilhão.\n\n#chuva #curiosidades #porqueagenteeassim",
+      "arquivo": "cheiro-de-chuva.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cheiro-de-chuva.mp4"
+    },
+    {
+      "id": "tiktok-consumidor-assistencia-perdeu-meu-celular",
+      "rede": "tiktok",
+      "canal": "consumidor",
+      "slug": "assistencia-perdeu-meu-celular",
+      "quando": "2026-11-27T17:00:00-03:00",
+      "legenda": "Comente CELULAR se uma loja já perdeu algo seu. Aviso de \"não nos responsabilizamos\" não vale.\n\nA assistência técnica que recebe o aparelho fica responsável por ele. Pelo artigo 14 do Código de Defesa do Consumidor, o prestador de serviço responde pelos danos, independentemente de culpa.\n\nPlaca de \"não nos responsabilizamos por objetos deixados\" não afasta essa responsabilidade (art. 25 e 51).\n\nGuarde a ordem de serviço. Peça um aparelho equivalente ou o valor dele. Sem acordo, Procon ou Juizado Especial Cível.\n\n#celular #direitodoconsumidor #podeissoedu",
+      "arquivo": "assistencia-perdeu-meu-celular.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/assistencia-perdeu-meu-celular.mp4"
+    },
+    {
+      "id": "instagram-comportamento-suspiro-sem-motivo",
+      "rede": "instagram",
+      "canal": "comportamento",
+      "slug": "suspiro-sem-motivo",
+      "quando": "2026-11-28T09:00:00-03:00",
+      "legenda": "Comente SUSPIRO se suspira sem perceber. A gente solta cerca de 12 suspiros automáticos por hora.\n\nSuspirar não é só emoção. Pessoas suspiram espontaneamente cerca de 12 vezes por hora. O suspiro é uma respiração mais funda que reabre os alvéolos, os saquinhos de ar dos pulmões que vão murchando aos poucos.\n\nEm 2016, Peng Li, Jack Feldman e colegas identificaram, em camundongos, neurônios do tronco cerebral que controlam esse reflexo.\n\nAlívio, tédio e emoção também fazem a gente suspirar.\n\n#corpohumano #respiracao #porqueagenteeassim",
+      "arquivo": "suspiro-sem-motivo.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/suspiro-sem-motivo.mp4"
+    },
+    {
+      "id": "instagram-consumidor-site-falso-black-friday",
+      "rede": "instagram",
+      "canal": "consumidor",
+      "slug": "site-falso-black-friday",
+      "quando": "2026-11-28T09:00:00-03:00",
+      "legenda": "Comente SITE se já desconfiou de uma promoção. O Procon-SP tem uma lista de sites que você deve evitar.\n\nNa Black Friday aparecem sites falsos com preço baixo demais, cronômetro de oferta e pagamento só no Pix. Desconfie de site sem CNPJ, sem endereço e com domínio estranho.\n\nO Procon-SP mantém a lista \"Evite esses sites\", com endereços que receberam reclamações e não responderam.\n\nNo cartão de crédito dá para contestar a compra. Se já pagou por Pix, avise o banco na hora, peça o MED e registre boletim de ocorrência.\n\n#blackfriday #golpe #podeissoedu",
+      "arquivo": "site-falso-black-friday.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/site-falso-black-friday.mp4"
+    },
+    {
+      "id": "tiktok-comportamento-suspiro-sem-motivo",
+      "rede": "tiktok",
+      "canal": "comportamento",
+      "slug": "suspiro-sem-motivo",
+      "quando": "2026-11-28T09:00:00-03:00",
+      "legenda": "Comente SUSPIRO se suspira sem perceber. A gente solta cerca de 12 suspiros automáticos por hora.\n\nSuspirar não é só emoção. Pessoas suspiram espontaneamente cerca de 12 vezes por hora. O suspiro é uma respiração mais funda que reabre os alvéolos, os saquinhos de ar dos pulmões que vão murchando aos poucos.\n\nEm 2016, Peng Li, Jack Feldman e colegas identificaram, em camundongos, neurônios do tronco cerebral que controlam esse reflexo.\n\nAlívio, tédio e emoção também fazem a gente suspirar.\n\n#corpohumano #respiracao #porqueagenteeassim",
+      "arquivo": "suspiro-sem-motivo.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/suspiro-sem-motivo.mp4"
+    },
+    {
+      "id": "tiktok-consumidor-site-falso-black-friday",
+      "rede": "tiktok",
+      "canal": "consumidor",
+      "slug": "site-falso-black-friday",
+      "quando": "2026-11-28T09:00:00-03:00",
+      "legenda": "Comente SITE se já desconfiou de uma promoção. O Procon-SP tem uma lista de sites que você deve evitar.\n\nNa Black Friday aparecem sites falsos com preço baixo demais, cronômetro de oferta e pagamento só no Pix. Desconfie de site sem CNPJ, sem endereço e com domínio estranho.\n\nO Procon-SP mantém a lista \"Evite esses sites\", com endereços que receberam reclamações e não responderam.\n\nNo cartão de crédito dá para contestar a compra. Se já pagou por Pix, avise o banco na hora, peça o MED e registre boletim de ocorrência.\n\n#blackfriday #golpe #podeissoedu",
+      "arquivo": "site-falso-black-friday.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/site-falso-black-friday.mp4"
+    },
+    {
+      "id": "instagram-comportamento-cafe-e-banheiro",
+      "rede": "instagram",
+      "canal": "comportamento",
+      "slug": "cafe-e-banheiro",
+      "quando": "2026-11-28T12:00:00-03:00",
+      "legenda": "Comente CAFÉ se isso acontece com você. Num estudo, 29% sentiram vontade de ir ao banheiro após o café.\n\nNum estudo de S. R. Brown e colegas (1990, revista Gut), 29% dos voluntários relataram vontade de evacuar depois de tomar café. Nas medições, o café estimulou contrações do intestino grosso poucos minutos após ser tomado.\n\nO descafeinado também teve efeito, menor, o que indica que não é só a cafeína.\n\nDe manhã, o intestino já tende a estar mais ativo, o que reforça o efeito.\n\n#cafe #corpohumano #porqueagenteeassim",
+      "arquivo": "cafe-e-banheiro.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cafe-e-banheiro.mp4"
+    },
+    {
+      "id": "instagram-consumidor-show-cancelado-reembolso",
+      "rede": "instagram",
+      "canal": "consumidor",
+      "slug": "show-cancelado-reembolso",
+      "quando": "2026-11-28T12:00:00-03:00",
+      "legenda": "Comente SHOW se já teve show cancelado. Cancelou, devolve tudo: ingresso e taxa de conveniência.\n\nQuando o organizador cancela o evento, você tem direito ao reembolso integral, incluindo a taxa de conveniência, que só existe por causa do show.\n\nCrédito ou nova data são opções que você pode aceitar, não obrigação. Se não puder ir na nova data, peça o dinheiro de volta.\n\nPeça por escrito no canal da ticketeira e guarde o protocolo. Sem solução, Procon ou consumidor.gov.br.\n\n#show #ingresso #podeissoedu",
+      "arquivo": "show-cancelado-reembolso.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/show-cancelado-reembolso.mp4"
+    },
+    {
+      "id": "tiktok-comportamento-cafe-e-banheiro",
+      "rede": "tiktok",
+      "canal": "comportamento",
+      "slug": "cafe-e-banheiro",
+      "quando": "2026-11-28T12:00:00-03:00",
+      "legenda": "Comente CAFÉ se isso acontece com você. Num estudo, 29% sentiram vontade de ir ao banheiro após o café.\n\nNum estudo de S. R. Brown e colegas (1990, revista Gut), 29% dos voluntários relataram vontade de evacuar depois de tomar café. Nas medições, o café estimulou contrações do intestino grosso poucos minutos após ser tomado.\n\nO descafeinado também teve efeito, menor, o que indica que não é só a cafeína.\n\nDe manhã, o intestino já tende a estar mais ativo, o que reforça o efeito.\n\n#cafe #corpohumano #porqueagenteeassim",
+      "arquivo": "cafe-e-banheiro.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cafe-e-banheiro.mp4"
+    },
+    {
+      "id": "tiktok-consumidor-show-cancelado-reembolso",
+      "rede": "tiktok",
+      "canal": "consumidor",
+      "slug": "show-cancelado-reembolso",
+      "quando": "2026-11-28T12:00:00-03:00",
+      "legenda": "Comente SHOW se já teve show cancelado. Cancelou, devolve tudo: ingresso e taxa de conveniência.\n\nQuando o organizador cancela o evento, você tem direito ao reembolso integral, incluindo a taxa de conveniência, que só existe por causa do show.\n\nCrédito ou nova data são opções que você pode aceitar, não obrigação. Se não puder ir na nova data, peça o dinheiro de volta.\n\nPeça por escrito no canal da ticketeira e guarde o protocolo. Sem solução, Procon ou consumidor.gov.br.\n\n#show #ingresso #podeissoedu",
+      "arquivo": "show-cancelado-reembolso.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/show-cancelado-reembolso.mp4"
+    },
+    {
+      "id": "instagram-comportamento-procurar-o-que-esta-na-mao",
+      "rede": "instagram",
+      "canal": "comportamento",
+      "slug": "procurar-o-que-esta-na-mao",
+      "quando": "2026-11-28T17:00:00-03:00",
+      "legenda": "Comente MÃO se já procurou algo que estava na sua mão. No teste do gorila, metade nem viu o gorila passar.\n\nNossa atenção é limitada: o que está fora do foco pode simplesmente não ser percebido. No experimento de Daniel Simons e Christopher Chabris (1999), cerca de metade das pessoas que contavam passes de bola não viu alguém fantasiado de gorila atravessar a cena.\n\nQuando procuramos algo \"perdido\", o cérebro busca a imagem do objeto sumido e pode deixar passar o que está na mão ou na cabeça.\n\nParar e conferir mãos, bolsos e cabeça antes de sair procurando ajuda.\n\n#cerebro #atencao #porqueagenteeassim",
+      "arquivo": "procurar-o-que-esta-na-mao.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/procurar-o-que-esta-na-mao.mp4"
+    },
+    {
+      "id": "instagram-consumidor-corte-de-luz-na-sexta",
+      "rede": "instagram",
+      "canal": "consumidor",
+      "slug": "corte-de-luz-na-sexta",
+      "quando": "2026-11-28T17:00:00-03:00",
+      "legenda": "Comente LUZ se já cortaram a sua num fim de semana. Corte por atraso não pode na sexta nem no feriado.\n\nPela Resolução Normativa ANEEL 1.000/2021, a distribuidora não pode suspender a energia por falta de pagamento às sextas, sábados, domingos, feriados e vésperas de feriado, e precisa avisar antes, por escrito, com antecedência.\n\nCorte irregular dá direito a religação sem custo e pode gerar compensação. Pague o débito, mande o comprovante, peça a religação e anote o protocolo. Sem solução, ouvidoria da distribuidora e ANEEL.\n\n#energia #contadeluz #podeissoedu",
+      "arquivo": "corte-de-luz-na-sexta.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/corte-de-luz-na-sexta.mp4"
+    },
+    {
+      "id": "tiktok-comportamento-procurar-o-que-esta-na-mao",
+      "rede": "tiktok",
+      "canal": "comportamento",
+      "slug": "procurar-o-que-esta-na-mao",
+      "quando": "2026-11-28T17:00:00-03:00",
+      "legenda": "Comente MÃO se já procurou algo que estava na sua mão. No teste do gorila, metade nem viu o gorila passar.\n\nNossa atenção é limitada: o que está fora do foco pode simplesmente não ser percebido. No experimento de Daniel Simons e Christopher Chabris (1999), cerca de metade das pessoas que contavam passes de bola não viu alguém fantasiado de gorila atravessar a cena.\n\nQuando procuramos algo \"perdido\", o cérebro busca a imagem do objeto sumido e pode deixar passar o que está na mão ou na cabeça.\n\nParar e conferir mãos, bolsos e cabeça antes de sair procurando ajuda.\n\n#cerebro #atencao #porqueagenteeassim",
+      "arquivo": "procurar-o-que-esta-na-mao.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/procurar-o-que-esta-na-mao.mp4"
+    },
+    {
+      "id": "tiktok-consumidor-corte-de-luz-na-sexta",
+      "rede": "tiktok",
+      "canal": "consumidor",
+      "slug": "corte-de-luz-na-sexta",
+      "quando": "2026-11-28T17:00:00-03:00",
+      "legenda": "Comente LUZ se já cortaram a sua num fim de semana. Corte por atraso não pode na sexta nem no feriado.\n\nPela Resolução Normativa ANEEL 1.000/2021, a distribuidora não pode suspender a energia por falta de pagamento às sextas, sábados, domingos, feriados e vésperas de feriado, e precisa avisar antes, por escrito, com antecedência.\n\nCorte irregular dá direito a religação sem custo e pode gerar compensação. Pague o débito, mande o comprovante, peça a religação e anote o protocolo. Sem solução, ouvidoria da distribuidora e ANEEL.\n\n#energia #contadeluz #podeissoedu",
+      "arquivo": "corte-de-luz-na-sexta.mp4",
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/corte-de-luz-na-sexta.mp4"
     }
   ]
 }
