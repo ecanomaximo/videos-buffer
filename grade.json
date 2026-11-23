@@ -1965,8 +1965,10 @@
       "arquivo": "tranco-ao-dormir.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/tranco-ao-dormir.mp4",
       "container_id": "18116255266946558",
-      "status": "preparando",
-      "criado_em": "2026-11-23T12:47:34.423Z"
+      "status": "sent",
+      "criado_em": "2026-11-23T12:47:34.423Z",
+      "post_id": "17916988755505638",
+      "publicado_em": "2026-11-23T12:49:09.549Z"
     },
     {
       "id": "instagram-consumidor-golpe-falsa-central",
