@@ -1981,8 +1981,10 @@
       "arquivo": "golpe-falsa-central.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/golpe-falsa-central.mp4",
       "container_id": "17924216574306369",
-      "status": "preparando",
-      "criado_em": "2026-11-23T12:49:15.015Z"
+      "status": "sent",
+      "criado_em": "2026-11-23T12:49:15.015Z",
+      "post_id": "17979180540141220",
+      "publicado_em": "2026-11-23T12:50:08.325Z"
     },
     {
       "id": "tiktok-comportamento-tranco-ao-dormir",
