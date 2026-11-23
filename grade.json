@@ -2049,9 +2049,11 @@
       "arquivo": "por-que-calma-irrita.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/por-que-calma-irrita.mp4",
       "post_id": "6b0333dd846b0ee907aa9e76",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-23T15:00:00.000Z",
-      "criado_em": "2026-11-22T18:26:37.895Z"
+      "criado_em": "2026-11-22T18:26:37.895Z",
+      "publicado_em": "2026-11-23T15:05:36.546Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7711382851601681682"
     },
     {
       "id": "tiktok-consumidor-loja-cancelou-meu-pedido",
@@ -2063,9 +2065,11 @@
       "arquivo": "loja-cancelou-meu-pedido.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/loja-cancelou-meu-pedido.mp4",
       "post_id": "6b0333dec72676f5e94ec614",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-23T15:00:00.000Z",
-      "criado_em": "2026-11-22T18:26:38.358Z"
+      "criado_em": "2026-11-22T18:26:38.358Z",
+      "publicado_em": "2026-11-23T15:05:12.323Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7711382818298809608"
     },
     {
       "id": "instagram-comportamento-cara-vermelha-no-exercicio",
@@ -2097,9 +2101,11 @@
       "arquivo": "cara-vermelha-no-exercicio.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cara-vermelha-no-exercicio.mp4",
       "post_id": "6b0333debf5d5a73b6b0fb43",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-23T20:00:00.000Z",
-      "criado_em": "2026-11-22T18:26:38.943Z"
+      "criado_em": "2026-11-22T18:26:38.943Z",
+      "publicado_em": "2026-11-23T20:04:21.145Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7711460023452388626"
     },
     {
       "id": "tiktok-consumidor-troca-de-presente-natal",
@@ -2111,9 +2117,11 @@
       "arquivo": "troca-de-presente-natal.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/troca-de-presente-natal.mp4",
       "post_id": "6b0333dfcc364169c1769688",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-23T20:00:00.000Z",
-      "criado_em": "2026-11-22T18:26:39.404Z"
+      "criado_em": "2026-11-22T18:26:39.404Z",
+      "publicado_em": "2026-11-23T20:04:17.019Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7711460085469367573"
     },
     {
       "id": "instagram-comportamento-primeira-impressao-em-segundos",
@@ -2335,7 +2343,11 @@
       "quando": "2026-11-25T12:00:00-03:00",
       "legenda": "Comente DANÇA se seu pé bate sozinho no ritmo. Só de ouvir música, as áreas motoras do cérebro acendem.\n\nOuvir uma batida ativa áreas do cérebro ligadas ao movimento, mesmo quando a pessoa está parada, como mostrou o estudo de Jessica Grahn e Matthew Brett (2007) com ressonância.\n\nPesquisas sobre groove sugerem que ritmos com alguma surpresa, nem simples demais nem complexos demais, são os que mais dão vontade de mexer o corpo.\n\nO cérebro tenta prever a próxima batida, e o corpo acompanha.\n\n#musica #cerebro #porqueagenteeassim",
       "arquivo": "balancar-com-a-musica.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/balancar-com-a-musica.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/balancar-com-a-musica.mp4",
+      "post_id": "6b04bf6a18db0405bdacc638",
+      "status": "scheduled",
+      "agendado_para": "2026-11-25T15:00:00.000Z",
+      "criado_em": "2026-11-23T22:34:18.800Z"
     },
     {
       "id": "tiktok-consumidor-recall-de-carro-gratis",
@@ -2345,7 +2357,11 @@
       "quando": "2026-11-25T12:00:00-03:00",
       "legenda": "Comente RECALL se nunca pesquisou a placa do seu carro. Recall é grátis, mesmo com a garantia vencida.\n\nRecall é o chamado da montadora para consertar um defeito que pode ser perigoso. O serviço é gratuito e não depende da garantia nem da idade do carro.\n\nO artigo 10 do Código de Defesa do Consumidor obriga o fornecedor a comunicar o risco e a corrigir o problema.\n\nConsulte a placa ou o chassi no portal de recalls do governo e agende numa concessionária da marca.\n\n#carro #recall #podeissoedu",
       "arquivo": "recall-de-carro-gratis.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/recall-de-carro-gratis.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/recall-de-carro-gratis.mp4",
+      "post_id": "6b04bf6bf72f10e1883ab953",
+      "status": "scheduled",
+      "agendado_para": "2026-11-25T15:00:00.000Z",
+      "criado_em": "2026-11-23T22:34:19.382Z"
     },
     {
       "id": "instagram-comportamento-aplauso-contagioso",
@@ -2375,7 +2391,11 @@
       "quando": "2026-11-25T17:00:00-03:00",
       "legenda": "Comente PALMA se você aplaude só porque todo mundo aplaude. Num estudo, o aplauso se espalhou como contágio.\n\nRichard Mann e colegas (2013) filmaram plateias de apresentações e viram que o aplauso se espalha como contágio social: a chance de alguém começar ou parar de aplaudir dependia mais de quantos já estavam aplaudindo do que do que estava sendo apresentado.\n\nPor isso a duração das palmas pode variar muito entre plateias que viram a mesma apresentação.\n\nO gráfico do vídeo é uma ilustração, não os dados do artigo.\n\n#psicologia #comportamento #porqueagenteeassim",
       "arquivo": "aplauso-contagioso.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/aplauso-contagioso.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/aplauso-contagioso.mp4",
+      "post_id": "6b04bf6bf72f10e1883ab99d",
+      "status": "scheduled",
+      "agendado_para": "2026-11-25T20:00:00.000Z",
+      "criado_em": "2026-11-23T22:34:19.945Z"
     },
     {
       "id": "tiktok-consumidor-trocar-remedio-por-generico",
@@ -2385,7 +2405,11 @@
       "quando": "2026-11-25T17:00:00-03:00",
       "legenda": "Comente GENÉRICO se sempre pede o mais barato. O genérico custa pelo menos 35% menos que o de referência.\n\nA Lei 9.787/1999 permite que o farmacêutico troque o remédio de referência da receita pelo genérico correspondente, a menos que o médico tenha escrito que não pode trocar.\n\nO genérico tem o mesmo princípio ativo, dose e forma, e passa por testes de bioequivalência na Anvisa. Pela regra de preços, ele custa pelo menos 35% menos que o de referência.\n\nO similar não entra nessa troca automática.\n\n#farmacia #generico #podeissoedu",
       "arquivo": "trocar-remedio-por-generico.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/trocar-remedio-por-generico.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/trocar-remedio-por-generico.mp4",
+      "post_id": "6b04bf6c58d65b8ef8d37a7e",
+      "status": "scheduled",
+      "agendado_para": "2026-11-25T20:00:00.000Z",
+      "criado_em": "2026-11-23T22:34:20.704Z"
     },
     {
       "id": "instagram-comportamento-falar-alto-com-fone",
