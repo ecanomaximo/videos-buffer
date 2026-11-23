@@ -2097,8 +2097,10 @@
       "arquivo": "troca-de-presente-natal.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/troca-de-presente-natal.mp4",
       "container_id": "17924299854306369",
-      "status": "preparando",
-      "criado_em": "2026-11-23T22:35:19.211Z"
+      "status": "sent",
+      "criado_em": "2026-11-23T22:35:19.211Z",
+      "post_id": "18127367689911179",
+      "publicado_em": "2026-11-23T22:36:51.430Z"
     },
     {
       "id": "tiktok-comportamento-cara-vermelha-no-exercicio",
