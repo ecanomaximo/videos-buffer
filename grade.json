@@ -2081,8 +2081,10 @@
       "arquivo": "cara-vermelha-no-exercicio.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cara-vermelha-no-exercicio.mp4",
       "container_id": "18116414575946558",
-      "status": "preparando",
-      "criado_em": "2026-11-23T22:34:23.501Z"
+      "status": "sent",
+      "criado_em": "2026-11-23T22:34:23.501Z",
+      "post_id": "18077877314601246",
+      "publicado_em": "2026-11-23T22:35:15.098Z"
     },
     {
       "id": "instagram-consumidor-troca-de-presente-natal",
