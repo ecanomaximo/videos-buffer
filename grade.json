@@ -1985,9 +1985,11 @@
       "arquivo": "tranco-ao-dormir.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/tranco-ao-dormir.mp4",
       "post_id": "6b0333dcd5eabfb8cccd2866",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-23T12:00:00.000Z",
-      "criado_em": "2026-11-22T18:26:36.868Z"
+      "criado_em": "2026-11-22T18:26:36.868Z",
+      "publicado_em": "2026-11-23T12:04:01.437Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7711335785387019572"
     },
     {
       "id": "tiktok-consumidor-golpe-falsa-central",
@@ -1999,9 +2001,11 @@
       "arquivo": "golpe-falsa-central.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/golpe-falsa-central.mp4",
       "post_id": "6b0333ddd5eabfb8cccd28b3",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-23T12:00:00.000Z",
-      "criado_em": "2026-11-22T18:26:37.375Z"
+      "criado_em": "2026-11-22T18:26:37.375Z",
+      "publicado_em": "2026-11-23T12:04:06.092Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7711336049410051346"
     },
     {
       "id": "instagram-comportamento-por-que-calma-irrita",
@@ -2271,7 +2275,11 @@
       "quando": "2026-11-25T09:00:00-03:00",
       "legenda": "Comente RISO se já riu de nervoso na hora errada. Quem chora de alegria tende a rir de tensão, diz estudo.\n\nRir de nervoso é comum. Num estudo de Oriana Aragón e colegas (Yale, 2015), pessoas que choram de alegria também tendiam a mostrar outras expressões \"trocadas\", como rir em situações tensas.\n\nA hipótese dos autores é que a expressão oposta ajuda a regular uma emoção forte demais, trazendo o corpo de volta ao equilíbrio.\n\nRir de nervoso não significa falta de empatia.\n\n#psicologia #emocoes #porqueagenteeassim",
       "arquivo": "risada-de-nervoso.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/risada-de-nervoso.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/risada-de-nervoso.mp4",
+      "post_id": "6b0435e17e433fe9cacb690e",
+      "status": "scheduled",
+      "agendado_para": "2026-11-25T12:00:00.000Z",
+      "criado_em": "2026-11-23T12:47:29.882Z"
     },
     {
       "id": "tiktok-consumidor-produto-diferente-do-anuncio",
@@ -2281,7 +2289,11 @@
       "quando": "2026-11-25T09:00:00-03:00",
       "legenda": "Comente ANÚNCIO se já te mandaram coisa diferente. Produto diferente do anúncio é vício, art. 18 do CDC.\n\nQuando o produto chega diferente do que o anúncio mostrava, é vício por disparidade com a mensagem publicitária (art. 18 do Código de Defesa do Consumidor). Você pode exigir o produto certo.\n\nNa compra pela internet, ainda vale o direito de arrependimento de 7 dias (art. 49), com o frete de volta por conta da loja.\n\nFotografe caixa, etiqueta e anúncio, abra a reclamação e guarde o protocolo.\n\n#compraonline #direitodoconsumidor #podeissoedu",
       "arquivo": "produto-diferente-do-anuncio.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/produto-diferente-do-anuncio.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/produto-diferente-do-anuncio.mp4",
+      "post_id": "6b0435e26b6de502825db966",
+      "status": "scheduled",
+      "agendado_para": "2026-11-25T12:00:00.000Z",
+      "criado_em": "2026-11-23T12:47:30.480Z"
     },
     {
       "id": "instagram-comportamento-balancar-com-a-musica",
