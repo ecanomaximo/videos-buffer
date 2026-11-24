@@ -2253,8 +2253,10 @@
       "arquivo": "barriga-roncando.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/barriga-roncando.mp4",
       "container_id": "18116711770946558",
-      "status": "preparando",
-      "criado_em": "2026-11-24T21:06:03.931Z"
+      "status": "sent",
+      "criado_em": "2026-11-24T21:06:03.931Z",
+      "post_id": "18131290282895652",
+      "publicado_em": "2026-11-24T21:07:15.465Z"
     },
     {
       "id": "instagram-consumidor-multa-para-cancelar-academia",
