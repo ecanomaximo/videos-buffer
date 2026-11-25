@@ -2325,8 +2325,10 @@
       "arquivo": "risada-de-nervoso.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/risada-de-nervoso.mp4",
       "container_id": "18116897470946558",
-      "status": "preparando",
-      "criado_em": "2026-11-25T14:32:25.313Z"
+      "status": "sent",
+      "criado_em": "2026-11-25T14:32:25.313Z",
+      "post_id": "17999672951841178",
+      "publicado_em": "2026-11-25T14:33:37.348Z"
     },
     {
       "id": "instagram-consumidor-produto-diferente-do-anuncio",
