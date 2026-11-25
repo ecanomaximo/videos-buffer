@@ -2421,9 +2421,11 @@
       "arquivo": "balancar-com-a-musica.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/balancar-com-a-musica.mp4",
       "post_id": "6b04bf6a18db0405bdacc638",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-25T15:00:00.000Z",
-      "criado_em": "2026-11-23T22:34:18.800Z"
+      "criado_em": "2026-11-23T22:34:18.800Z",
+      "publicado_em": "2026-11-25T15:06:23.916Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7712125271230647559"
     },
     {
       "id": "tiktok-consumidor-recall-de-carro-gratis",
@@ -2435,9 +2437,11 @@
       "arquivo": "recall-de-carro-gratis.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/recall-de-carro-gratis.mp4",
       "post_id": "6b04bf6bf72f10e1883ab953",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-25T15:00:00.000Z",
-      "criado_em": "2026-11-23T22:34:19.382Z"
+      "criado_em": "2026-11-23T22:34:19.382Z",
+      "publicado_em": "2026-11-25T15:05:29.763Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7712125165798247686"
     },
     {
       "id": "instagram-comportamento-aplauso-contagioso",
@@ -2469,9 +2473,11 @@
       "arquivo": "aplauso-contagioso.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/aplauso-contagioso.mp4",
       "post_id": "6b04bf6bf72f10e1883ab99d",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-25T20:00:00.000Z",
-      "criado_em": "2026-11-23T22:34:19.945Z"
+      "criado_em": "2026-11-23T22:34:19.945Z",
+      "publicado_em": "2026-11-25T20:04:54.223Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7712202177900580102"
     },
     {
       "id": "tiktok-consumidor-trocar-remedio-por-generico",
@@ -2483,9 +2489,11 @@
       "arquivo": "trocar-remedio-por-generico.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/trocar-remedio-por-generico.mp4",
       "post_id": "6b04bf6c58d65b8ef8d37a7e",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-25T20:00:00.000Z",
-      "criado_em": "2026-11-23T22:34:20.704Z"
+      "criado_em": "2026-11-23T22:34:20.704Z",
+      "publicado_em": "2026-11-25T20:04:43.023Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7712202223320632577"
     },
     {
       "id": "instagram-comportamento-falar-alto-com-fone",
@@ -2707,7 +2715,11 @@
       "quando": "2026-11-27T12:00:00-03:00",
       "legenda": "Comente SONO se acorda cansado depois de dormir muito. A inércia do sono dura de 15 a 30 minutos.\n\nA sensação de acordar grogue se chama inércia do sono. Ela é mais forte quando você acorda no meio do sono profundo e costuma durar de 15 a 30 minutos, às vezes mais.\n\nDormir muito além do habitual, em horário diferente, também desalinha o relógio biológico.\n\nManter horários parecidos, pegar luz do dia ao acordar e se mexer ajudam. Cansaço constante merece conversa com um médico.\n\n#sono #saude #porqueagenteeassim",
       "arquivo": "acordar-mais-cansado.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/acordar-mais-cansado.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/acordar-mais-cansado.mp4",
+      "post_id": "6b07446e1e6fb88b3faf3f2c",
+      "status": "scheduled",
+      "agendado_para": "2026-11-27T15:00:00.000Z",
+      "criado_em": "2026-11-25T20:26:22.777Z"
     },
     {
       "id": "tiktok-consumidor-cartao-clonado-estorno",
@@ -2717,7 +2729,11 @@
       "quando": "2026-11-27T12:00:00-03:00",
       "legenda": "Comente CARTÃO se já clonaram o seu. Pela Súmula 479 do STJ, o banco responde pela fraude de terceiros.\n\nPela Súmula 479 do Superior Tribunal de Justiça, os bancos respondem objetivamente pelos danos de fraudes praticadas por terceiros, como compras com cartão clonado.\n\nBloqueie o cartão, conteste cada compra e anote os protocolos. Se o banco negar o estorno, reclame no Banco Central e no Procon, e considere o Juizado Especial.\n\nSe você entregou senha ou código a alguém, a análise pode mudar.\n\n#cartao #banco #podeissoedu",
       "arquivo": "cartao-clonado-estorno.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cartao-clonado-estorno.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cartao-clonado-estorno.mp4",
+      "post_id": "6b07446f1e6fb88b3faf3f5d",
+      "status": "scheduled",
+      "agendado_para": "2026-11-27T15:00:00.000Z",
+      "criado_em": "2026-11-25T20:26:23.313Z"
     },
     {
       "id": "instagram-comportamento-cheiro-de-chuva",
@@ -2747,7 +2763,11 @@
       "quando": "2026-11-27T17:00:00-03:00",
       "legenda": "Comente CHUVA se ama esse cheiro. O nariz humano sente a geosmina em cerca de 5 partes por trilhão.\n\nO cheiro de terra molhada se chama petricor, nome criado em 1964 pelos pesquisadores Isabel Bear e Richard Thomas. Um dos principais responsáveis é a geosmina, produzida por bactérias do solo.\n\nExperimentos do MIT (2015) mostraram que gotas de chuva, ao bater no chão, lançam aerossóis que levam esses aromas para o ar.\n\nO nariz humano detecta geosmina em concentrações baixíssimas, na casa de 5 partes por trilhão.\n\n#chuva #curiosidades #porqueagenteeassim",
       "arquivo": "cheiro-de-chuva.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cheiro-de-chuva.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cheiro-de-chuva.mp4",
+      "post_id": "6b07446f1e6fb88b3faf3f89",
+      "status": "scheduled",
+      "agendado_para": "2026-11-27T20:00:00.000Z",
+      "criado_em": "2026-11-25T20:26:23.993Z"
     },
     {
       "id": "tiktok-consumidor-assistencia-perdeu-meu-celular",
@@ -2757,7 +2777,11 @@
       "quando": "2026-11-27T17:00:00-03:00",
       "legenda": "Comente CELULAR se uma loja já perdeu algo seu. Aviso de \"não nos responsabilizamos\" não vale.\n\nA assistência técnica que recebe o aparelho fica responsável por ele. Pelo artigo 14 do Código de Defesa do Consumidor, o prestador de serviço responde pelos danos, independentemente de culpa.\n\nPlaca de \"não nos responsabilizamos por objetos deixados\" não afasta essa responsabilidade (art. 25 e 51).\n\nGuarde a ordem de serviço. Peça um aparelho equivalente ou o valor dele. Sem acordo, Procon ou Juizado Especial Cível.\n\n#celular #direitodoconsumidor #podeissoedu",
       "arquivo": "assistencia-perdeu-meu-celular.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/assistencia-perdeu-meu-celular.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/assistencia-perdeu-meu-celular.mp4",
+      "post_id": "6b0744701e6fb88b3faf3fec",
+      "status": "scheduled",
+      "agendado_para": "2026-11-27T20:00:00.000Z",
+      "criado_em": "2026-11-25T20:26:24.708Z"
     },
     {
       "id": "instagram-comportamento-suspiro-sem-motivo",
