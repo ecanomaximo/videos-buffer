@@ -2345,9 +2345,11 @@
       "arquivo": "risada-de-nervoso.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/risada-de-nervoso.mp4",
       "post_id": "6b0435e17e433fe9cacb690e",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-25T12:00:00.000Z",
-      "criado_em": "2026-11-23T12:47:29.882Z"
+      "criado_em": "2026-11-23T12:47:29.882Z",
+      "publicado_em": "2026-11-25T12:04:49.109Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7712078562836221191"
     },
     {
       "id": "tiktok-consumidor-produto-diferente-do-anuncio",
@@ -2359,9 +2361,11 @@
       "arquivo": "produto-diferente-do-anuncio.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/produto-diferente-do-anuncio.mp4",
       "post_id": "6b0435e26b6de502825db966",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-25T12:00:00.000Z",
-      "criado_em": "2026-11-23T12:47:30.480Z"
+      "criado_em": "2026-11-23T12:47:30.480Z",
+      "publicado_em": "2026-11-25T12:06:01.965Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7712078661595319560"
     },
     {
       "id": "instagram-comportamento-balancar-com-a-musica",
@@ -2631,7 +2635,11 @@
       "quando": "2026-11-27T09:00:00-03:00",
       "legenda": "Comente CARRINHO se o estresse enche o seu. Num estudo, quem soltou mais cortisol comeu mais doce depois.\n\nEm situações de estresse, o corpo libera cortisol, hormônio ligado ao aumento do apetite. No estudo de Elissa Epel e colegas (2001), mulheres que liberaram mais cortisol num teste estressante comeram mais, principalmente doces, logo depois.\n\nComidas doces e gordurosas dão um alívio rápido, mas passageiro.\n\nCaminhar, beber água e ir ao mercado com lista ajudam. Se comer por ansiedade virou rotina, procure um profissional de saúde.\n\n#ansiedade #alimentacao #porqueagenteeassim",
       "arquivo": "fome-emocional.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/fome-emocional.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/fome-emocional.mp4",
+      "post_id": "6b06f17599c096db94423a9d",
+      "status": "scheduled",
+      "agendado_para": "2026-11-27T12:00:00.000Z",
+      "criado_em": "2026-11-25T14:32:21.829Z"
     },
     {
       "id": "tiktok-consumidor-troco-em-bala",
@@ -2641,7 +2649,11 @@
       "quando": "2026-11-27T09:00:00-03:00",
       "legenda": "Comente BALA se já recebeu troco em bala. Para o Procon, empurrar produto no lugar do troco é prática abusiva.\n\nTroco é dinheiro. Dar bala, chiclete ou outro produto no lugar do troco empurra uma compra que você não pediu, e os Procons tratam isso como prática abusiva (art. 39 do Código de Defesa do Consumidor).\n\nA falta de moeda é problema do estabelecimento: ele pode arredondar o valor a seu favor.\n\nA conta do vídeo é um exemplo: 15 centavos para 300 clientes por dia dão R$ 1.350 em 30 dias.\n\n#procon #direitodoconsumidor #podeissoedu",
       "arquivo": "troco-em-bala.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/troco-em-bala.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/troco-em-bala.mp4",
+      "post_id": "6b06f176232e485be0ccb245",
+      "status": "scheduled",
+      "agendado_para": "2026-11-27T12:00:00.000Z",
+      "criado_em": "2026-11-25T14:32:22.468Z"
     },
     {
       "id": "instagram-comportamento-acordar-mais-cansado",
