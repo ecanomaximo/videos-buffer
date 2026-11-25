@@ -2469,8 +2469,10 @@
       "arquivo": "trocar-remedio-por-generico.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/trocar-remedio-por-generico.mp4",
       "container_id": "17924681538306369",
-      "status": "preparando",
-      "criado_em": "2026-11-25T20:27:24.635Z"
+      "status": "sent",
+      "criado_em": "2026-11-25T20:27:24.635Z",
+      "post_id": "18107873393162079",
+      "publicado_em": "2026-11-25T20:28:15.998Z"
     },
     {
       "id": "tiktok-comportamento-aplauso-contagioso",
