@@ -2341,8 +2341,10 @@
       "arquivo": "produto-diferente-do-anuncio.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/produto-diferente-do-anuncio.mp4",
       "container_id": "17924632719306369",
-      "status": "preparando",
-      "criado_em": "2026-11-25T14:33:42.104Z"
+      "status": "sent",
+      "criado_em": "2026-11-25T14:33:42.104Z",
+      "post_id": "18076872518773282",
+      "publicado_em": "2026-11-25T14:34:33.367Z"
     },
     {
       "id": "tiktok-comportamento-risada-de-nervoso",
