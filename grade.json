@@ -2649,9 +2649,11 @@
       "arquivo": "cruzar-os-bracos.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cruzar-os-bracos.mp4",
       "post_id": "6b05fc389dd8377af11f4f16",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-26T20:00:00.000Z",
-      "criado_em": "2026-11-24T21:06:00.296Z"
+      "criado_em": "2026-11-24T21:06:00.296Z",
+      "publicado_em": "2026-11-26T20:05:09.525Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7712573235505745160"
     },
     {
       "id": "tiktok-consumidor-plano-de-saude-negou-urgencia",
@@ -2663,9 +2665,11 @@
       "arquivo": "plano-de-saude-negou-urgencia.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/plano-de-saude-negou-urgencia.mp4",
       "post_id": "6b05fc38d3db96136615a368",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-26T20:00:00.000Z",
-      "criado_em": "2026-11-24T21:06:01.077Z"
+      "criado_em": "2026-11-24T21:06:01.077Z",
+      "publicado_em": "2026-11-26T20:04:22.361Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7712571900551089409"
     },
     {
       "id": "instagram-comportamento-fome-emocional",
@@ -2935,7 +2939,11 @@
       "quando": "2026-11-28T17:00:00-03:00",
       "legenda": "Comente MÃO se já procurou algo que estava na sua mão. No teste do gorila, metade nem viu o gorila passar.\n\nNossa atenção é limitada: o que está fora do foco pode simplesmente não ser percebido. No experimento de Daniel Simons e Christopher Chabris (1999), cerca de metade das pessoas que contavam passes de bola não viu alguém fantasiado de gorila atravessar a cena.\n\nQuando procuramos algo \"perdido\", o cérebro busca a imagem do objeto sumido e pode deixar passar o que está na mão ou na cabeça.\n\nParar e conferir mãos, bolsos e cabeça antes de sair procurando ajuda.\n\n#cerebro #atencao #porqueagenteeassim",
       "arquivo": "procurar-o-que-esta-na-mao.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/procurar-o-que-esta-na-mao.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/procurar-o-que-esta-na-mao.mp4",
+      "post_id": "6b089129f0a96d0f2188d285",
+      "status": "scheduled",
+      "agendado_para": "2026-11-28T20:00:00.000Z",
+      "criado_em": "2026-11-26T20:06:01.347Z"
     },
     {
       "id": "tiktok-consumidor-corte-de-luz-na-sexta",
@@ -2945,7 +2953,11 @@
       "quando": "2026-11-28T17:00:00-03:00",
       "legenda": "Comente LUZ se já cortaram a sua num fim de semana. Corte por atraso não pode na sexta nem no feriado.\n\nPela Resolução Normativa ANEEL 1.000/2021, a distribuidora não pode suspender a energia por falta de pagamento às sextas, sábados, domingos, feriados e vésperas de feriado, e precisa avisar antes, por escrito, com antecedência.\n\nCorte irregular dá direito a religação sem custo e pode gerar compensação. Pague o débito, mande o comprovante, peça a religação e anote o protocolo. Sem solução, ouvidoria da distribuidora e ANEEL.\n\n#energia #contadeluz #podeissoedu",
       "arquivo": "corte-de-luz-na-sexta.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/corte-de-luz-na-sexta.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/corte-de-luz-na-sexta.mp4",
+      "post_id": "6b089129f0a96d0f2188d2ef",
+      "status": "scheduled",
+      "agendado_para": "2026-11-28T20:00:00.000Z",
+      "criado_em": "2026-11-26T20:06:01.989Z"
     }
   ]
 }
