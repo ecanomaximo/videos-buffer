@@ -2645,8 +2645,10 @@
       "arquivo": "plano-de-saude-negou-urgencia.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/plano-de-saude-negou-urgencia.mp4",
       "container_id": "17924884803306369",
-      "status": "preparando",
-      "criado_em": "2026-11-26T20:07:00.531Z"
+      "status": "sent",
+      "criado_em": "2026-11-26T20:07:00.531Z",
+      "post_id": "17901749922399145",
+      "publicado_em": "2026-11-26T20:07:50.948Z"
     },
     {
       "id": "tiktok-comportamento-cruzar-os-bracos",
