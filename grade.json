@@ -2537,9 +2537,11 @@
       "arquivo": "falar-alto-com-fone.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/falar-alto-com-fone.mp4",
       "post_id": "6b05fc359dd8377af11f4e0c",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-26T12:00:00.000Z",
-      "criado_em": "2026-11-24T21:05:57.341Z"
+      "criado_em": "2026-11-24T21:05:57.341Z",
+      "publicado_em": "2026-11-26T12:05:47.942Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7712449762242415890"
     },
     {
       "id": "tiktok-consumidor-overbooking-no-voo",
@@ -2551,9 +2553,11 @@
       "arquivo": "overbooking-no-voo.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/overbooking-no-voo.mp4",
       "post_id": "6b05fc369dd8377af11f4e83",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-26T12:00:00.000Z",
-      "criado_em": "2026-11-24T21:05:58.263Z"
+      "criado_em": "2026-11-24T21:05:58.263Z",
+      "publicado_em": "2026-11-26T12:06:07.829Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7712449749672103176"
     },
     {
       "id": "instagram-comportamento-relogio-parece-parado",
@@ -2585,9 +2589,11 @@
       "arquivo": "relogio-parece-parado.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/relogio-parece-parado.mp4",
       "post_id": "6b05fc369dd8377af11f4ec0",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-26T15:00:00.000Z",
-      "criado_em": "2026-11-24T21:05:58.969Z"
+      "criado_em": "2026-11-24T21:05:58.969Z",
+      "publicado_em": "2026-11-26T15:07:23.910Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7712496598923775253"
     },
     {
       "id": "tiktok-consumidor-delivery-veio-errado",
@@ -2599,9 +2605,11 @@
       "arquivo": "delivery-veio-errado.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/delivery-veio-errado.mp4",
       "post_id": "6b05fc37da2eab4595a673ea",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-26T15:00:00.000Z",
-      "criado_em": "2026-11-24T21:05:59.693Z"
+      "criado_em": "2026-11-24T21:05:59.693Z",
+      "publicado_em": "2026-11-26T15:07:21.749Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7712496574667984148"
     },
     {
       "id": "instagram-comportamento-cruzar-os-bracos",
@@ -2823,7 +2831,11 @@
       "quando": "2026-11-28T09:00:00-03:00",
       "legenda": "Comente SUSPIRO se suspira sem perceber. A gente solta cerca de 12 suspiros automáticos por hora.\n\nSuspirar não é só emoção. Pessoas suspiram espontaneamente cerca de 12 vezes por hora. O suspiro é uma respiração mais funda que reabre os alvéolos, os saquinhos de ar dos pulmões que vão murchando aos poucos.\n\nEm 2016, Peng Li, Jack Feldman e colegas identificaram, em camundongos, neurônios do tronco cerebral que controlam esse reflexo.\n\nAlívio, tédio e emoção também fazem a gente suspirar.\n\n#corpohumano #respiracao #porqueagenteeassim",
       "arquivo": "suspiro-sem-motivo.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/suspiro-sem-motivo.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/suspiro-sem-motivo.mp4",
+      "post_id": "6b088225f0a96d0f2181bc2a",
+      "status": "scheduled",
+      "agendado_para": "2026-11-28T12:00:00.000Z",
+      "criado_em": "2026-11-26T19:01:57.185Z"
     },
     {
       "id": "tiktok-consumidor-site-falso-black-friday",
@@ -2833,7 +2845,11 @@
       "quando": "2026-11-28T09:00:00-03:00",
       "legenda": "Comente SITE se já desconfiou de uma promoção. O Procon-SP tem uma lista de sites que você deve evitar.\n\nNa Black Friday aparecem sites falsos com preço baixo demais, cronômetro de oferta e pagamento só no Pix. Desconfie de site sem CNPJ, sem endereço e com domínio estranho.\n\nO Procon-SP mantém a lista \"Evite esses sites\", com endereços que receberam reclamações e não responderam.\n\nNo cartão de crédito dá para contestar a compra. Se já pagou por Pix, avise o banco na hora, peça o MED e registre boletim de ocorrência.\n\n#blackfriday #golpe #podeissoedu",
       "arquivo": "site-falso-black-friday.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/site-falso-black-friday.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/site-falso-black-friday.mp4",
+      "post_id": "6b088225f0a96d0f2181bcde",
+      "status": "scheduled",
+      "agendado_para": "2026-11-28T12:00:00.000Z",
+      "criado_em": "2026-11-26T19:01:57.893Z"
     },
     {
       "id": "instagram-comportamento-cafe-e-banheiro",
@@ -2863,7 +2879,11 @@
       "quando": "2026-11-28T12:00:00-03:00",
       "legenda": "Comente CAFÉ se isso acontece com você. Num estudo, 29% sentiram vontade de ir ao banheiro após o café.\n\nNum estudo de S. R. Brown e colegas (1990, revista Gut), 29% dos voluntários relataram vontade de evacuar depois de tomar café. Nas medições, o café estimulou contrações do intestino grosso poucos minutos após ser tomado.\n\nO descafeinado também teve efeito, menor, o que indica que não é só a cafeína.\n\nDe manhã, o intestino já tende a estar mais ativo, o que reforça o efeito.\n\n#cafe #corpohumano #porqueagenteeassim",
       "arquivo": "cafe-e-banheiro.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cafe-e-banheiro.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cafe-e-banheiro.mp4",
+      "post_id": "6b0882263accdac92cf12dd8",
+      "status": "scheduled",
+      "agendado_para": "2026-11-28T15:00:00.000Z",
+      "criado_em": "2026-11-26T19:01:58.669Z"
     },
     {
       "id": "tiktok-consumidor-show-cancelado-reembolso",
@@ -2873,7 +2893,11 @@
       "quando": "2026-11-28T12:00:00-03:00",
       "legenda": "Comente SHOW se já teve show cancelado. Cancelou, devolve tudo: ingresso e taxa de conveniência.\n\nQuando o organizador cancela o evento, você tem direito ao reembolso integral, incluindo a taxa de conveniência, que só existe por causa do show.\n\nCrédito ou nova data são opções que você pode aceitar, não obrigação. Se não puder ir na nova data, peça o dinheiro de volta.\n\nPeça por escrito no canal da ticketeira e guarde o protocolo. Sem solução, Procon ou consumidor.gov.br.\n\n#show #ingresso #podeissoedu",
       "arquivo": "show-cancelado-reembolso.mp4",
-      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/show-cancelado-reembolso.mp4"
+      "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/show-cancelado-reembolso.mp4",
+      "post_id": "6b0882271fa40915828d9247",
+      "status": "scheduled",
+      "agendado_para": "2026-11-28T15:00:00.000Z",
+      "criado_em": "2026-11-26T19:01:59.353Z"
     },
     {
       "id": "instagram-comportamento-procurar-o-que-esta-na-mao",
