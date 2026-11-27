@@ -2713,9 +2713,11 @@
       "arquivo": "fome-emocional.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/fome-emocional.mp4",
       "post_id": "6b06f17599c096db94423a9d",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-27T12:00:00.000Z",
-      "criado_em": "2026-11-25T14:32:21.829Z"
+      "criado_em": "2026-11-25T14:32:21.829Z",
+      "publicado_em": "2026-11-27T12:04:25.143Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7712820200302791942"
     },
     {
       "id": "tiktok-consumidor-troco-em-bala",
@@ -2727,9 +2729,11 @@
       "arquivo": "troco-em-bala.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/troco-em-bala.mp4",
       "post_id": "6b06f176232e485be0ccb245",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-27T12:00:00.000Z",
-      "criado_em": "2026-11-25T14:32:22.468Z"
+      "criado_em": "2026-11-25T14:32:22.468Z",
+      "publicado_em": "2026-11-27T12:04:03.923Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7712820579153235218"
     },
     {
       "id": "instagram-comportamento-acordar-mais-cansado",
@@ -2761,9 +2765,11 @@
       "arquivo": "acordar-mais-cansado.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/acordar-mais-cansado.mp4",
       "post_id": "6b07446e1e6fb88b3faf3f2c",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-27T15:00:00.000Z",
-      "criado_em": "2026-11-25T20:26:22.777Z"
+      "criado_em": "2026-11-25T20:26:22.777Z",
+      "publicado_em": "2026-11-27T15:05:47.789Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7712867319596240149"
     },
     {
       "id": "tiktok-consumidor-cartao-clonado-estorno",
@@ -2775,9 +2781,11 @@
       "arquivo": "cartao-clonado-estorno.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cartao-clonado-estorno.mp4",
       "post_id": "6b07446f1e6fb88b3faf3f5d",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-27T15:00:00.000Z",
-      "criado_em": "2026-11-25T20:26:23.313Z"
+      "criado_em": "2026-11-25T20:26:23.313Z",
+      "publicado_em": "2026-11-27T15:06:21.912Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7712867473967746322"
     },
     {
       "id": "instagram-comportamento-cheiro-de-chuva",
