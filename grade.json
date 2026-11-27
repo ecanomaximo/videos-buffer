@@ -2797,8 +2797,10 @@
       "arquivo": "cheiro-de-chuva.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cheiro-de-chuva.mp4",
       "container_id": "18117578548946558",
-      "status": "preparando",
-      "criado_em": "2026-11-27T19:53:28.492Z"
+      "status": "sent",
+      "criado_em": "2026-11-27T19:53:28.492Z",
+      "post_id": "18003136056046180",
+      "publicado_em": "2026-11-27T20:00:08.753Z"
     },
     {
       "id": "instagram-consumidor-assistencia-perdeu-meu-celular",
