@@ -2869,8 +2869,10 @@
       "arquivo": "suspiro-sem-motivo.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/suspiro-sem-motivo.mp4",
       "container_id": "18117748099946558",
-      "status": "preparando",
-      "criado_em": "2026-11-28T11:49:23.672Z"
+      "status": "sent",
+      "criado_em": "2026-11-28T11:49:23.672Z",
+      "post_id": "18440748922181623",
+      "publicado_em": "2026-11-28T12:00:08.317Z"
     },
     {
       "id": "instagram-consumidor-site-falso-black-friday",
