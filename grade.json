@@ -2837,9 +2837,11 @@
       "arquivo": "cheiro-de-chuva.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/cheiro-de-chuva.mp4",
       "post_id": "6b07446f1e6fb88b3faf3f89",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-27T20:00:00.000Z",
-      "criado_em": "2026-11-25T20:26:23.993Z"
+      "criado_em": "2026-11-25T20:26:23.993Z",
+      "publicado_em": "2026-11-27T20:03:57.340Z",
+      "link": "https://tiktok.com/@pqagenteeassim/video/7712944220444708116"
     },
     {
       "id": "tiktok-consumidor-assistencia-perdeu-meu-celular",
@@ -2851,9 +2853,11 @@
       "arquivo": "assistencia-perdeu-meu-celular.mp4",
       "url": "https://github.com/ecanomaximo/videos-buffer/releases/download/videos/assistencia-perdeu-meu-celular.mp4",
       "post_id": "6b0744701e6fb88b3faf3fec",
-      "status": "scheduled",
+      "status": "sent",
       "agendado_para": "2026-11-27T20:00:00.000Z",
-      "criado_em": "2026-11-25T20:26:24.708Z"
+      "criado_em": "2026-11-25T20:26:24.708Z",
+      "publicado_em": "2026-11-27T20:03:43.898Z",
+      "link": "https://tiktok.com/@podeissoedu/video/7712944195748498708"
     },
     {
       "id": "instagram-comportamento-suspiro-sem-motivo",
